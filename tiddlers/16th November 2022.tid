@@ -1,0 +1,9 @@
+created: 20221116035449753
+modified: 20221118155230600
+tags: Journal
+title: 16th November 2022
+type: text/vnd.tiddlywiki
+
+So we definitely need a patch. Today I spent most of the day rewriting the vocab case matcher, and it was an intense day but fun to work under a tighter time constraint for a change. I moved the case matcher out of the substitutions frameworks entirely and just have the TranscriptManager call the replacement method any time it has just done ITN. I also tightened up the regex pattern a bit so it requires word boundaries and escapes all special characters in the vocab phrase. So now users get replaced terms in every message they see. This is really how we should have done it in the first place!
+
+This evening I was wiped, so Rose and I just watched a bit more Hell's Kitchen and then headed to bed.

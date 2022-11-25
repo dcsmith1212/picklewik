@@ -1,0 +1,11 @@
+created: 20221109044648246
+modified: 20221109044701879
+tags: Journal
+title: 8th November 2022
+type: text/vnd.tiddlywiki
+
+This morning I did a code review with Alex and Pete, and finally checked in the P-rex changes. Boy I touched a lot of files. There was a little hiccup with the .so not having been built because that only happens in the nightly build, but the automatic SVP builds that run after people check in changes was expecting the file to be there. So I checked in a copy of for during the day today.
+
+I left work a bit early to drive to Hurricane to get my driver's license so that I could vote tonight, but like a dumbass I didn't check my passport expiration date, so that was a waste of 3 hours. Frustrating. And I didn't get to vote. I will have to go back with my birth certificate sometime soon.
+
+I got back and made some pasta for dinner, then Rose and I watched a couple more episodes of Breaking Bad. There are only two left! We also talked about the ADHD book she's been reading, and I'm excited to read it myself once she's finished it and marked the parts that she relates to. 

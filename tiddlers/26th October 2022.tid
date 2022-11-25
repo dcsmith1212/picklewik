@@ -1,0 +1,11 @@
+created: 20221027014029000
+modified: 20221027020244369
+tags: Journal
+title: 26th October 2022
+type: text/vnd.tiddlywiki
+
+Today was a good day! Finally done with implementing the parts-of-speech rescorer, I started on a new 18.0 item, the one for swapping out g2p-seq2seq for phonetisaurus in the profile server. Luckily most the JNI for interacting with it via Java mostly worked out of the box, so I already got pronunciations back to Java. Tomorrow I need to find a place to check in phonetisaurus, start on the chef changes for deploying all the new bits, and swap out g2p-seq2seq in the nVoqPronunciationGenerator.
+
+I left work a bit early, around 3, to go hike [[East Mansard Peak|First hike of East Mansard Peak]]. The hike was mellow, and scrambling the peak itself turned out not to be much of a scramble at all, although you could make it one if you wanted. The views from the top were astronomical though, well worth the hike.
+
+For dinner I made a stir fry bowl, and now Rose and I are watching Breaking Bad. Think tonight I will try to write some trip plans for the [[Stuff to hike]] page. Couldn't ask for a better day, really. I think this medium is really going to work out for me.

@@ -1,0 +1,11 @@
+created: 20221029015014144
+modified: 20221029015017406
+tags: Journal
+title: 28th October 2022
+type: text/vnd.tiddlywiki
+
+I spent the morning working more on the P-rex source code, trying to figure out how I want to check it in. I figured out how to get it to install everything local to the source directory rather than in /usr/local, so I decided to build the training/testing binaries and .so file and check all that in. This way, Linguistics can easily use P-rex but we don't have a ton of unnecessary crap checked in. 
+
+I tried to sneak out around 11:30 to hike to Cable Mountain in Zion. From looking at the maps, this looks like quite the cliff to be on top of, with quite the view, and it's only ~3.5 miles from the trailhead. Alas, a new Mid-Dictation Commands defect made it through CCB when I was on my way to Zion and I turned around to work on it. After fixing it, I managed to get back out around 3:30 but didn't make it to the end of the trail. Still, the few miles I hiked were wonderful. The biome up there is eclectic, a mix between desert pinyon-juniper scrubland and huge ponderosa stands. It felt mountainous, actually, and there were little patches of snow on the ground.
+
+Tonight Rose and I are getting ready for our trip to Denver. I need to figure out how to stuff all the crap for my Halloween costume, climbing, ski clothes, regular clothes, and work laptop in my carry-on. Oh boy! Looking forward to seeing everyone though, both friends and coworkers. If I manage to climb multiple times AND ski, I will be pretty pleased, too.

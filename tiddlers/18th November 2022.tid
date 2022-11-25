@@ -1,0 +1,11 @@
+created: 20221119072525057
+modified: 20221125190839227
+tags: Journal
+title: 18th November 2022
+type: text/vnd.tiddlywiki
+
+TGIF. I have been working on the patch most of the week and we ended up moving the ReDS part of it to after Thanksgiving. Ugh. And I'm pretty sure it's just something with Bruce's tester causing the problem. But maybe not.
+
+I also messed a lot with tiddly hosting today. I got an nginx server running on an Ubuntu VM running on my macbook, and was able to get tiddly-on-node running behind it. Unfortunately I spent an hour or two tonight trying to open up my router to allow access to the server from outside the network, only to find out that SCC doesn't provide static public IPs unless you pay $10/month. 
+
+I'm kind of stumped on which way I want to run this wiki. I love the simplicity of hosting and auto-backups for the single file version with github. Hosting a wiki that I can modify from anywhere is proving harder than I thought, and seems like it will cost money unless I can get it working with [[glitch|https://glitch.com/]]. But I worry that over time the single-file version will not scale... The folder wiki just makes more sense if I ever want to separate out tiddlers or modify them like regular files or whatever. Maybe I should just stick with single-file for now and see how it works for me.

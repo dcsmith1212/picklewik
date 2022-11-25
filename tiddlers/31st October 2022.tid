@@ -1,0 +1,11 @@
+created: 20221101142743989
+modified: 20221101143508389
+tags: Journal
+title: 31st October 2022
+type: text/vnd.tiddlywiki
+
+Happy Halloween! I felt much better today, after Rose and I went to sleep at like 7:30. I worked a bit in the morning on P-rex integration, deciding to just check in the source code to external_lib but create a separate ~RandD wrapper/sandbox project that Linguistics and others can use to train and evaluate new models.
+
+Around 10 I took Rose to the airport and stopped to get a flu shot on the way back, ate some leftover Nepalese food for lunch, then worked on a 17.2 defect in the afternoon. Stinkin' mid-dictation commands functionality hasn't been hardened at all, zoinks!
+
+After work Josh, Monika and I watched a couple lame ass scary movies and then I went to bed!

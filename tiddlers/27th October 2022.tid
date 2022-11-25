@@ -1,0 +1,15 @@
+created: 20221028152938838
+modified: 20221028155429618
+tags: Journal
+title: 27th October 2022
+type: text/vnd.tiddlywiki
+
+Today I finally got rid of all the g2p-seq2seq code in our codebase. The glory! Phonetisaurus was easy as hell to swap in since the JNI was already written, but I do need to make sure I don't interfere with the CSASR stuff already using it.
+
+I had my first ~DevOps meeting today too... hopefully didn't make a total ass of myself. Then we had a quick planning. Brian and I worked on getting P-rex into external_lib afterwards, and now I just need to finalize the changes and modify the chef cookbook for nv_prof.
+
+Rose and I heated up some chili for dinner, and she made grilled cheeses to go with it. Yum! We watched some Breaking Bad and I read a bunch of the //Zion: Canyoneering// book by Tom Jones that came in the mail today. This dude seems like such a badass. MIT engineering grad, former trad climber, turned canyoneering and specialty gear manufacturer living in Mount Carmel. Maybe I'll meet him one day through ZAC or in the canyons somewhere. He and Roger Linn are two dudes out of that same generation that I really look up to for applying their big brain smarts to a cool one-man business that they're passionate about.
+
+Anyway, the book is cool, starts off with some history of the Zion area and a bit about the geology which I'd really like to grok. I'll write something up here about it eventually. Then he goes into trail hikes and off-trail hikes, which I'd like to do all of here pretty soon in prep for the technical canyons.
+
+I also started reading the //The INFP Book// by Catherine Chea, which came in the mail today as well. She gave a really good introduction to the functions and functional stack that A.J. Drenth totally glossed over in his book, so I'd like to write something up about that as well.

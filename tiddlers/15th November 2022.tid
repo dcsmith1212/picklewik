@@ -1,0 +1,9 @@
+created: 20221117005316133
+modified: 20221125190824715
+tags: Journal
+title: 15th November 2022
+type: text/vnd.tiddlywiki
+
+Today was a busy day at work. Mostly I hacked away at XTopic trying to figure out how to remove a single component from the object, so that I can prototype swapping out commands on the fly. But in the afternoon Soni got in touch about a defect with out vocab case matching code change for 17.2. Turns out we did it stupidly. Users are confused about that fact that the vocab only shows up in the Substituted Text tab of R&C, and even worse, the regex sub we use internally is matching all sorts of crap it shouldn't, including with the special period character. Yikes! Think we'll need a patch.
+
+In the evening I had book club about The Watchmen, and then I read the last chapter of it afterwards lol.

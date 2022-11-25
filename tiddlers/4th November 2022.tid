@@ -1,0 +1,9 @@
+created: 20221104222150764
+modified: 20221104222359153
+tags: Journal
+title: 4th November 2022
+type: text/vnd.tiddlywiki
+
+Today I worked in the hotel room for a bit, then went down to the hotel breakfast buffet which was pretty tasty (and more importantly free). After I ate I took a Lyft back to Lakewood and have been working the rest of the day. I think I'm going to move most of my workflow to linux, meaning I need to be able to do all the SVP interaction there (building the ant targets, access to chef server via knife, etc.). I got ant builds working, finally, but still need to figure out the chef stuff. I think it will be nice to have the laptop carry pretty minimal installs so I can just outsource most of my work to linux.
+
+Tonight we're going to order some food and hopefully watch something fun. Skiing in the morning!
