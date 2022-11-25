@@ -1,0 +1,7 @@
+created: 20221116041005556
+modified: 20221116041211093
+tags: delete-me
+title: Example of using JSON tiddler
+type: text/vnd.tiddlywiki
+
+Number of days in November: {{Example JSON tiddler##nov}}

@@ -1,0 +1,11 @@
+created: 20221116034119148
+modified: 20221116040823308
+tags: delete-me
+title: Example of using KaTeX
+type: text/vnd.tiddlywiki
+
+Here's some math:
+
+$$
+f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+$$
