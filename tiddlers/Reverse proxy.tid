@@ -4,7 +4,7 @@ tags: networking software
 title: Reverse proxy
 type: text/vnd.tiddlywiki
 
-[img [attachments/reverse_proxy.svg]]
+[img [reverse_proxy.svg]]
 
 A reverse proxy sits in front of a webserver and forwards client/browser request to it. They are used to improve security over a setup where the server talks directly to the client. From the client's point of view, requests appear to be served by the server itself as if the proxy isn't there at all.
 
