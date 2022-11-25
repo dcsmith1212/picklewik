@@ -2,6 +2,10 @@
 
 while :
 do
+	echo
+	echo "New iteration"
+	echo
+
 	if [ -n "$(git status --porcelain)" ]
 	then
 		git add -A
