@@ -13,5 +13,5 @@ do
 		git push
 	fi
 
-	sleep 60
+	sleep 10
 done
