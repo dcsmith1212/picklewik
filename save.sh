@@ -2,10 +2,6 @@
 
 while :
 do
-	echo
-	echo "New iteration"
-	echo
-
 	if [ -n "$(git status --porcelain)" ]
 	then
 		git add -A
@@ -13,5 +9,5 @@ do
 		git push
 	fi
 
-	sleep 10
+	sleep 60
 done
