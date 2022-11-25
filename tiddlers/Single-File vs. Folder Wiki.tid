@@ -1,0 +1,41 @@
+created: 20221118162956304
+modified: 20221118164154499
+tags: 
+title: Single-File vs. Folder Wiki
+type: text/vnd.tiddlywiki
+
+! Single-File Wiki
+
+!!! Pros
+
+* Free, easy hosting on Github Pages
+* SSL include with Github Pages
+* Automated git backups
+* Accessible from anywhere
+
+!!! Cons
+
+* Not all browsers (Duck Duck Go) support modifications
+* Clunky, error-prone saves
+* Either has to embed images or I have to import them into GH separately
+* Downloads and uploads huge HTML file each time (no lazy loading)
+* Requires more frequent GH token updates and syncing to multiple devices for saving
+
+! Folder Wiki
+
+!!! Pros
+
+* More natural architecture for version control
+* Smooth updates to local filesystem when changes are made
+* Lazy loads when network is good
+* Once hosted elsewhere, GH repo can be private
+* Supports more configurable authentication and authorization
+* Can be modified from any device securely
+* Built-in server for hosting
+* Combo with Travis allows for outside-LAN, read-only access, although it is clunky
+
+!!! Cons
+
+* Requires slightly more manual git backups
+* Can't be hosted on Github Pages
+* Needs to be set up with e.g. nginx for access from outside LAN
