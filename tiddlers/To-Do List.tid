@@ -1,6 +1,6 @@
 created: 20221025212934359
 creator: derek
-modified: 20221126060454910
+modified: 20221126061222520
 modifier: derek
 tags: 
 title: To-Do List
@@ -28,7 +28,6 @@ nVoq:
 ** Write item for these two things
 ** Write item for named components in XTopic
 * Item for getting debug artifacts and debug logging uploaded to S3
-* Finish local_build script changes
 * Integrating Phonetisaurus
 ** Remove all the g2p-seq2seq crap from LM
 ** How to write unit tests that use JNI?
