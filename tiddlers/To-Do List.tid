@@ -1,5 +1,7 @@
 created: 20221025212934359
-modified: 20221122190420717
+creator: derek
+modified: 20221126060454910
+modifier: derek
 tags: 
 title: To-Do List
 type: text/vnd.tiddlywiki
@@ -15,7 +17,6 @@ Wiki maintenance:
 
 * https://groktiddlywiki.com/read/
 * Move calender to the wiki
-* Finish [[Recipes]] import
 * [[Tiddlers to Write]]
 
 nVoq:
