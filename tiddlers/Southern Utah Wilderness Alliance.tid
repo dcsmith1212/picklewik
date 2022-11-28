@@ -1,9 +1,15 @@
 created: 20221128183438378
 creator: derek
-modified: 20221128183455758
+modified: 20221128183555897
 modifier: derek
 tags: environment
 title: Southern Utah Wilderness Alliance
 type: text/vnd.tiddlywiki
 
+<div class="centered">
 [img [suwa.jpg]]
+</div>
+
+<style>
+.centered{text-align:center}
+</style>
