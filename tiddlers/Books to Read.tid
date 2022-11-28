@@ -1,6 +1,6 @@
 created: 20221026144252496
 creator: derek
-modified: 20221128183945763
+modified: 20221128184723801
 modifier: derek
 tags: 
 title: Books to Read
@@ -22,6 +22,7 @@ type: text/vnd.tiddlywiki
 
 * [[Algorithmic Composition - Nierhaus|https://www.amazon.com/Algorithmic-Composition-Paradigms-Automated-Generation/dp/321175539X/ref=sr_1_1?crid=LC4XPA2UBF68&keywords=Algorithmic+Composition+-+Nierhaus&qid=1666797998&s=books&sprefix=algorithmic+composition+-+nierhaus%2Cstripbooks%2C159&sr=1-1&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0]]
 
+* [[The Haskell School of Music - Quick, Hudak|https://www.amazon.com/Haskell-School-Music-Signals-Symphonies/dp/1108416756/ref=sr_1_1?crid=3DLG0FSPWQE77&keywords=haskell+school+of+music&qid=1666798020&qu=eyJxc2MiOiIwLjUwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=haskell+school+of+musi%2Cstripbooks%2C153&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
 
 
 !! Music Theory, History, and Practice
@@ -115,8 +116,6 @@ type: text/vnd.tiddlywiki
 * [[Wabi-Sabi for Artists, Designers, Poets & Philosophers - Koren|https://www.amazon.com/Wabi-Sabi-Artists-Designers-Poets-Philosophers/dp/0981484603/ref=sr_1_3?crid=29JSN12C49AZZ&keywords=wabi+sabi&qid=1666797656&qu=eyJxc2MiOiI0LjU0IiwicXNhIjoiMy42NCIsInFzcCI6IjMuNzQifQ%3D%3D&s=books&sprefix=wabi+sab%2Cstripbooks%2C159&sr=1-3]]
 
 * [[The Box Man - Abe, Saunders|https://www.amazon.com/Box-Man-Novel-Kobo-Abe/dp/0375726519/ref=sr_1_1?crid=2CZNDYD80COU3&keywords=the+box+man&qid=1666797708&qu=eyJxc2MiOiIxLjEzIiwicXNhIjoiMC44OSIsInFzcCI6IjAuODQifQ%3D%3D&s=books&sprefix=the+box+man%2Cstripbooks%2C172&sr=1-1]]
-
-* [[The Haskell School of Music - Quick, Hudak|https://www.amazon.com/Haskell-School-Music-Signals-Symphonies/dp/1108416756/ref=sr_1_1?crid=3DLG0FSPWQE77&keywords=haskell+school+of+music&qid=1666798020&qu=eyJxc2MiOiIwLjUwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=haskell+school+of+musi%2Cstripbooks%2C153&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
 
 * [[The Myth of Sisyphus - Camus|https://www.amazon.com/Myth-Sisyphus-Vintage-International/dp/0525564454/ref=sr_1_1?crid=6IDOTIC1Z1LE&keywords=The+Myth+of+Sisyphus+-+Albert+Camus&qid=1666798046&s=books&sprefix=the+myth+of+sisyphus+-+albert+camus%2Cstripbooks%2C225&sr=1-1]]
 
@@ -225,4 +224,4 @@ type: text/vnd.tiddlywiki
 
 !! CCRMA and Edinburgh Books
 
-{{CCRMA and Edinburgh books}}
+{{CCRMA and Edinburgh Books}}
