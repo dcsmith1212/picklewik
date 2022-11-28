@@ -2,7 +2,7 @@ created: 20221128190209565
 creator: derek
 draft.of: Colorado River Compact, 1922
 draft.title: Colorado River Compact, 1922
-modified: 20221128210647421
+modified: 20221128210750042
 modifier: derek
 tags: environment
 title: Draft of 'Colorado River Compact, 1922' by derek
@@ -10,13 +10,15 @@ type: text/vnd.tiddlywiki
 
 The States of Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming, having resolved to enter into a compact under the Act of the Congress of the United States of America approved August 19, 1921 (42 Statutes at Large, page 171), and the Acts of the Legislatures of the said States, have through their Governors appointed as their Commissioners:
 
-* W.S. Norviel for the State of Arizona,
-* W.F. McClure for the State of California,
-* Delph E. Carpenter for the State of Colorado,
-* J.G. Scrugham for the State of Nevada,
-* Stephen B. Davis, Jr., for the State of New Mexico,
-* R.E. Caldwell for the State of Utah,
-* Frank C. Emerson for the State of Wyoming,
+"""
+&emsp; W.S. Norviel for the State of Arizona,
+W.F. McClure for the State of California,
+Delph E. Carpenter for the State of Colorado,
+J.G. Scrugham for the State of Nevada,
+Stephen B. Davis, Jr., for the State of New Mexico,
+R.E. Caldwell for the State of Utah,
+ Frank C. Emerson for the State of Wyoming,
+"""
 
 who, after negotiations participated in by Herbert Hoover appointed by The President as the representative of the United States of America, have agreed upon the following articles:
 
@@ -113,13 +115,13 @@ IN WITNESS WHEREOF, the Commissioners have signed this compact in a single origi
 DONE at the City of Santa Fe, New Mexico, this twenty-fourth day of November, A.D. One Thousand Nine Hundred and Twenty-two.
 
 <<right-aligned
-"W. S. NORVIEL<br>
-W. F. McCLURE<br>
-DELPH E. CARPENTER<br>
-J. G. SCRUGHAM<br>
-STEPHEN G. DAVIS, JR.<br>
+"W. S. NORVIEL <br>
+W. F. McCLURE <br>
+DELPH E. CARPENTER <br>
+J. G. SCRUGHAM <br>
+STEPHEN G. DAVIS, JR. <br>
 R. E. CALDWELL<br>
-FRANK C. EMERSON" <br>
+FRANK C. EMERSON <br>"
 >>
 
 """
