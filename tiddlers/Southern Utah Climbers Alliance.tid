@@ -1,15 +1,9 @@
 created: 20221128184210396
 creator: derek
-modified: 20221128184319408
+modified: 20221128223750277
 modifier: derek
 tags: environment
 title: Southern Utah Climbers Alliance
 type: text/vnd.tiddlywiki
 
-<div class="centered">
-[img width=300 [suca.png]]
-</div>
-
-<style>
-.centered{text-align:center}
-</style>
+<<centered "[img width=300 [suca.png]]">>
