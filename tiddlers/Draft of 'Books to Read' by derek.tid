@@ -2,7 +2,7 @@ created: 20221026144252496
 creator: derek
 draft.of: Books to Read
 draft.title: Books to Read
-modified: 20221128183813269
+modified: 20221128183920768
 modifier: derek
 tags: 
 title: Draft of 'Books to Read' by derek
@@ -42,6 +42,8 @@ type: text/vnd.tiddlywiki
 
 * [[Exploring Jazz Guitar - Hall|https://www.amazon.com/Jim-Hall-Exploring-Recorded-Versions/dp/0793503922/ref=sr_1_1?crid=UK314RULA3V8&keywords=exploring+the+guitar+jim+hall&qid=1666798380&s=books&sprefix=exploring+the+guitar+jim+hall%2Cstripbooks%2C212&sr=1-1]]
 
+* [[The Art and Technique of Electroacoustic Music - Elsea|https://www.amazon.com/Technique-Electroacoustic-Music-Computer-Digital/dp/0895797410/ref=sr_1_1?crid=158E3676QYSV&keywords=art+and+technique+of+electroacoustic+music&qid=1666796702&sprefix=art+and+technique+of+electro%2Caps%2C381&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
+
 
 
 !! Linguistics
@@ -50,7 +52,7 @@ type: text/vnd.tiddlywiki
 
 
 
-!! Programming & Computer Science
+!! Programming, Computer Science, and Mathematics
 
 * [[Object-Oriented Programming in Common LISP - Keene|https://www.amazon.com/Object-Oriented-Programming-COMMON-LISP-Programmers/dp/0201175894/ref=sr_1_1?crid=CMEUESNKGVRW&keywords=object+oriented+programming+common+lisp&qid=1666797521&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=object+oriented+programming+common+lis%2Cstripbooks%2C157&sr=1-1]]
 
@@ -82,10 +84,25 @@ type: text/vnd.tiddlywiki
 
 * [[Beyond Backpacking - Jardine|https://www.amazon.com/Beyond-Backpacking-Jardines-Lightweight-Hiking/dp/0963235931/ref=sr_1_1?crid=UOLAAJ6FWI1H&keywords=beyond+backpacking&qid=1666798440&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=beyond+backpacki%2Cstripbooks%2C287&sr=1-1]]
 
+* [[The Land of Little Rain - Austin|https://www.amazon.com/Land-Little-Modern-Library-Classics/dp/0812968522/ref=sr_1_4?crid=61KCYIZK2NLB&keywords=land+of+little+rain&qid=1666798693&qu=eyJxc2MiOiIyLjUxIiwicXNhIjoiMi40OSIsInFzcCI6IjIuNDcifQ%3D%3D&s=books&sprefix=land+of+little+rai%2Cstripbooks%2C158&sr=1-4]]
+
+* [[The Grand Canyon Expedition - Powell|https://www.amazon.com/Grand-Canyon-Expedition-Exploration-Colorado/dp/1423651669/ref=sr_1_1?crid=I4USID4QZ56L&keywords=canyons+of+the+colorado+powell&qid=1666798730&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=canyons+of+the+colorado+powel%2Cstripbooks%2C166&sr=1-1]]
+
+* [[Survive! - Stroud|https://www.amazon.com/Survive-Essential-Skills-Tactics-Anywhere/dp/0061373516/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1666798808&sr=1-1]]
+
+* [[The Secret Knowledge of Water - Childs|https://www.amazon.com/Secret-Knowledge-Water-Discovering-American/dp/0316610690/ref=sr_1_1?crid=2ZV0QU13X7V04&keywords=secret+knowledge+of+water&qid=1666798850&qu=eyJxc2MiOiIxLjk5IiwicXNhIjoiMS42NyIsInFzcCI6IjEuNzAifQ%3D%3D&s=books&sprefix=secret+knowledge+of+wate%2Cstripbooks%2C268&sr=1-1]]
+
+* [[Struggle Over Utah's San Rafael Swell - Durrant|https://www.amazon.com/Struggle-Over-Utahs-Rafael-Swell/dp/0816525722/ref=sr_1_1?crid=10LF7WPCOQXT9&keywords=struggle+over+the+san+rafael+swell&qid=1666799083&s=books&sprefix=struggle+over+the+san+rafael+swel%2Cstripbooks%2C148&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
+
+* [[Mountaineering: Freedom of the Hills - The Mountaineers|https://www.amazon.com/Mountaineering-Freedom-Hills-Mountaineers/dp/1680510045/ref=sr_1_1?keywords=mountaineering+the+freedom+of+the+hills&qid=1666799117&qu=eyJxc2MiOiIxLjIxIiwicXNhIjoiMC41NCIsInFzcCI6IjAuNTYifQ%3D%3D&s=books&sprefix=mountaineering+%2Cstripbooks%2C168&sr=1-1]]
 
 
 
-* [[The Art and Technique of Electroacoustic Music - Elsea|https://www.amazon.com/Technique-Electroacoustic-Music-Computer-Digital/dp/0895797410/ref=sr_1_1?crid=158E3676QYSV&keywords=art+and+technique+of+electroacoustic+music&qid=1666796702&sprefix=art+and+technique+of+electro%2Caps%2C381&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
+
+
+
+
+
 
 * [[The Desert - Van Dyke|https://www.amazon.com/gp/product/0526402229?ref_=dbs_m_mng_rwt_calw_thcv_1&storeType=ebooks&qid=1666796527&sr=8-1]]
 
@@ -121,14 +138,6 @@ type: text/vnd.tiddlywiki
 
 * [[China's Gilded Age - Ang|https://www.amazon.com/Chinas-Gilded-Age-Yuen-Ang/dp/1108745954/ref=sr_1_1?crid=AZYD3ER62A3Q&keywords=yuen+yuen+ang&qid=1666798649&qu=eyJxc2MiOiIyLjA4IiwicXNhIjoiMS44NSIsInFzcCI6IjEuOTgifQ%3D%3D&s=books&sprefix=yuen+yuen+ang%2Cstripbooks%2C155&sr=1-1]]
 
-* [[The Land of Little Rain - Austin|https://www.amazon.com/Land-Little-Modern-Library-Classics/dp/0812968522/ref=sr_1_4?crid=61KCYIZK2NLB&keywords=land+of+little+rain&qid=1666798693&qu=eyJxc2MiOiIyLjUxIiwicXNhIjoiMi40OSIsInFzcCI6IjIuNDcifQ%3D%3D&s=books&sprefix=land+of+little+rai%2Cstripbooks%2C158&sr=1-4]]
-
-* [[The Grand Canyon Expedition - Powell|https://www.amazon.com/Grand-Canyon-Expedition-Exploration-Colorado/dp/1423651669/ref=sr_1_1?crid=I4USID4QZ56L&keywords=canyons+of+the+colorado+powell&qid=1666798730&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=canyons+of+the+colorado+powel%2Cstripbooks%2C166&sr=1-1]]
-
-* [[Survive! - Stroud|https://www.amazon.com/Survive-Essential-Skills-Tactics-Anywhere/dp/0061373516/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1666798808&sr=1-1]]
-
-* [[The Secret Knowledge of Water - Childs|https://www.amazon.com/Secret-Knowledge-Water-Discovering-American/dp/0316610690/ref=sr_1_1?crid=2ZV0QU13X7V04&keywords=secret+knowledge+of+water&qid=1666798850&qu=eyJxc2MiOiIxLjk5IiwicXNhIjoiMS42NyIsInFzcCI6IjEuNzAifQ%3D%3D&s=books&sprefix=secret+knowledge+of+wate%2Cstripbooks%2C268&sr=1-1]]
-
 * [[Soul of the Night - Raymo|https://www.amazon.com/Soul-Night-Astronomical-Pilgrimage/dp/156101236X/ref=sr_1_1?crid=3SLB41IE0MPWO&keywords=soul+of+the+night&qid=1666798890&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=soul+of+the+nig%2Cstripbooks%2C156&sr=1-1]]
 
 * [[Miracle Country - Atleework|https://www.amazon.com/Miracle-Country-Memoir-Family-Landscape/dp/1643751417/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1666798918&sr=1-1]]
@@ -138,10 +147,6 @@ type: text/vnd.tiddlywiki
 * [[Writings on Music - Reich|https://www.amazon.com/Writings-Music-1965-2000-Steve-Reich/dp/0195151151/ref=sr_1_1?crid=2H6DJSTLL0JOK&keywords=writings+on+music+steve&qid=1666799010&s=books&sprefix=writings+on+music+stev%2Cstripbooks%2C181&sr=1-1&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0]]
 
 * [[Fixing My Gaze - Barry|https://www.amazon.com/Fixing-My-Gaze-Scientists-Dimensions/dp/0465020739/ref=sr_1_1?crid=3QWZZSJ6T81IK&keywords=fixing+my+gaze&qid=1666799033&qu=eyJxc2MiOiIxLjYyIiwicXNhIjoiMS40NSIsInFzcCI6IjEuNzYifQ%3D%3D&s=books&sprefix=fixing+my+gaze%2Cstripbooks%2C173&sr=1-1]]
-
-* [[Struggle Over Utah's San Rafael Swell - Durrant|https://www.amazon.com/Struggle-Over-Utahs-Rafael-Swell/dp/0816525722/ref=sr_1_1?crid=10LF7WPCOQXT9&keywords=struggle+over+the+san+rafael+swell&qid=1666799083&s=books&sprefix=struggle+over+the+san+rafael+swel%2Cstripbooks%2C148&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
-
-* [[Mountaineering: Freedom of the Hills - The Mountaineers|https://www.amazon.com/Mountaineering-Freedom-Hills-Mountaineers/dp/1680510045/ref=sr_1_1?keywords=mountaineering+the+freedom+of+the+hills&qid=1666799117&qu=eyJxc2MiOiIxLjIxIiwicXNhIjoiMC41NCIsInFzcCI6IjAuNTYifQ%3D%3D&s=books&sprefix=mountaineering+%2Cstripbooks%2C168&sr=1-1]]
 
 * [[Country: The Biggest Music in America - Tosches|https://www.amazon.com/Country-Biggest-America-Nick-Tosches/dp/0812820673/ref=sr_1_1?crid=1XR43MO5XIQBN&keywords=country+biggest+music+in+america&qid=1666799166&s=books&sprefix=country+biggest+music+in+america%2Cstripbooks%2C157&sr=1-1]]
 
