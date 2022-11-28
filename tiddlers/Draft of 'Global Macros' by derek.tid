@@ -1,9 +1,11 @@
 created: 20221128201120848
 creator: derek
-modified: 20221128202224682
+draft.of: Global Macros
+draft.title: Global Macros
+modified: 20221128202244322
 modifier: derek
 tags: $:/tags/Macro
-title: Global Macros
+title: Draft of 'Global Macros' by derek
 type: text/vnd.tiddlywiki
 
 \define centered(entity)
