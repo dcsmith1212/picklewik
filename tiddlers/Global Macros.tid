@@ -1,12 +1,12 @@
 created: 20221128201120848
 creator: derek
-modified: 20221128201855954
+modified: 20221128201944269
 modifier: derek
 tags: $:/tags/Macro
 title: Global Macros
 type: text/vnd.tiddlywiki
 
-\define div(entity)
+\define centered(entity)
 <div class="centered">
 $entity$
 </div>
