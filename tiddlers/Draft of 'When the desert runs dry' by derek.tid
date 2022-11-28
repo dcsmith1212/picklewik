@@ -2,7 +2,7 @@ created: 20221123170135592
 creator: derek
 draft.of: When the desert runs dry
 draft.title: When the desert runs dry
-modified: 20221128231822772
+modified: 20221128231941945
 modifier: derek
 tags: essay environment
 title: Draft of 'When the desert runs dry' by derek
@@ -46,7 +46,7 @@ It took 17 years to fill Lake Powell after Glen Canyon Dam was completed in 1963
 
 The reservoir remained mostly full through the end of the century. But in the early 2000s, a series of dry winters started to whittle away at its water level. In five short years, Lake Powell had gone from almost 100% full to 34% of capacity. While the science of climate change was understood, its impact on the Western water supply was still murky. When a landmark study was released in 2008 by Tim Barnett of the Scripps Institution of Oceanography — titled “When Will Lake Mead Go Dry?” — the conversation began to turn. The study projected that under a warming climate, Lake Powell and Lake Mead would be mostly empty, most of the time in the decades to come. The analysis shocked the Western water community and ruffled feathers at the bureau. 
 
-[img width=340 [when-desert-dry-3.webp]]
+<<centered "[img width=340 [when-desert-dry-3.webp]]">>
 
 The bureau didn’t fully acknowledge the impacts of climate change on the system until four years later in the 2012 release of their Colorado River Supply and Demand Study. It too showed that without major changes in water management, lakes Powell and Mead — the two biggest reservoirs in the country — could dry up.
 
@@ -66,7 +66,7 @@ This begs the question: Should Glen Canyon be managed as a semi-forgotten holdin
 
 The Colorado River Basin is comprised of seven states and Mexico. And somewhere in the middle of these seven states is an invisible line, drawn during the Colorado River Compact in 1922. When the seven states were tasked with dividing and allocating water rights of the Colorado River, they chose to split the basin in two: upper and lower. The agreement stated that each basin would be allotted the same amount of water and would be roughly divided along state boundaries. And while seemingly a fair deal, inequities soon became apparent. The Lower Basin is hot and dry, with large valleys of land irrigated by the river. The Upper Basin is mountainous, its melting snowpacks feeding most of the river’s water. One basin is where most of the water comes from, while the other is where most of the water is used. 
 
-[img width=340 [when-desert-dry-5.webp]]
+<<centered "[img width=340 [when-desert-dry-5.webp]]">>
 
 A bare-bones summary of the law of the river is that whoever first put water to a “beneficial use” would assume a perpetual right to that water. “In the early 20th century, California began developing massive amounts of Colorado River water for irrigation projects,” says Dave Wegner, former staff director for the House of Representatives’ Water and Power Subcommittee. “As early as the 1930s, congressmen in the Upper Basin felt the only way to protect their water future was to impound it somewhere upstream.” 
 
@@ -83,6 +83,8 @@ A legal analysis by Larry MacDonnell, published in 2013 in The Water Report jour
 In other words, the main obstacle would be getting states to agree to work together.
 
 Interim guidelines for managing Powell and Mead were passed in 2007 to deal with drought in the early 2000s. Now, understanding this dry period isn’t transitory and will likely get worse, these guidelines are set to be renegotiated by 2026. And that means Colorado River management is about to be overhauled in a serious way. 
+
+<<centered "[img width=700 [when-desert-dry-6.webp]]">>
 
 The negotiations will center around a number of factors, including hydropower production. 
 
