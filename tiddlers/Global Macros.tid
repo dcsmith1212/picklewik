@@ -1,6 +1,6 @@
 created: 20221128201120848
 creator: derek
-modified: 20221128202224682
+modified: 20221128202252478
 modifier: derek
 tags: $:/tags/Macro
 title: Global Macros
@@ -14,7 +14,7 @@ $entity$
 
 
 \define centered-h3(entity)
-<h3class="centered">
+<h3 class="centered">
 $entity$
 </h3>
 \end
