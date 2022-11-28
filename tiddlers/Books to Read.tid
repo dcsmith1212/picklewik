@@ -1,36 +1,52 @@
 created: 20221026144252496
 creator: derek
-modified: 20221128182133140
+modified: 20221128183310237
 modifier: derek
 tags: 
 title: Books to Read
 type: text/vnd.tiddlywiki
 
+!! Acoustics, Music Technology, and Computer Music
+
+* [[The Audio Programming Book - Mathews, Boulanger, Lazzarini|https://www.amazon.com/Audio-Programming-Book-MIT-Press/dp/0262014467/ref=sr_1_4?crid=3L8QZ0LTI43DN&keywords=audio+programming+book&qid=1666797429&qu=eyJxc2MiOiIxLjQxIiwicXNhIjoiMS40NyIsInFzcCI6IjEuMDAifQ%3D%3D&s=books&sprefix=audio+programming+boo%2Cstripbooks%2C165&sr=1-4]]
+
 * [[The Oxford Handbook of Algorithmic Music - Dean, McLean|https://www.amazon.com/Oxford-Handbook-Algorithmic-Music-YYYYYYYYY/dp/0197554369/ref=sr_1_1?keywords=oxford+handbook+of+algorithmic+music&qid=1666796447&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=oxford+handbook+al%2Caps%2C208&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
 
-* [[Wilderness Essays - Muir|https://www.amazon.com/Wilderness-Essays-John-Muir/dp/1423607120/ref=sr_1_1?keywords=wilderness+essays+john+muir&qid=1666796527&qu=eyJxc2MiOiIxLjc3IiwicXNhIjoiMS40NSIsInFzcCI6IjEuNjIifQ%3D%3D&sprefix=wilderness+essays%2Caps%2C195&sr=8-1]]
+* [[Applications of Digital Signal Processing to Audio and Acoustics - Kahrs|https://www.amazon.com/Applications-Processing-Acoustics-International-Engineering/dp/0792381300]]
+
+* [[The Computer Music Tutorial - Roads|https://www.amazon.com/Computer-Music-Tutorial-MIT-Press/dp/0262680823/ref=sr_1_3?keywords=computer+music+tutorial&qid=1666797612&qu=eyJxc2MiOiIwLjcwIiwicXNhIjoiMC44OSIsInFzcCI6IjAuNjUifQ%3D%3D&s=books&sprefix=computer+music+%2Cstripbooks%2C193&sr=1-3&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
+
+* [[Formalized Music - Xenakis|https://www.amazon.com/Formalized-Music-Mathematics-Composition-HARMONOLOGIA/dp/0945193246/ref=sr_1_1?crid=31FPU1PHG36CI&keywords=formalized+music&qid=1666797757&qu=eyJxc2MiOiIyLjA2IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=formalizedmusic%2Cstripbooks%2C142&sr=1-1]]
+
+* [[A Geometry of Music - Tymoczko|https://www.amazon.com/Geometry-Music-Counterpoint-Extended-Practice/dp/0195336674/ref=sr_1_1?crid=2CSBW5LX04T2I&keywords=geometry+of+music&qid=1666797908&qu=eyJxc2MiOiIxLjcwIiwicXNhIjoiMS41MyIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=geometry+of+musi%2Cstripbooks%2C198&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
+
+
+
+!! Music Theory, History, and Practice
 
 * [[Principles of Orchestration - Rimsky-Korsakov|https://www.amazon.com/Principles-Orchestration-Dover-Books-Music/dp/0486212661/ref=sr_1_1?keywords=principles+of+orchestration+by+nikolai+rimsky-korsakov&qid=1666796629&qu=eyJxc2MiOiIxLjMzIiwicXNhIjoiMS4yNyIsInFzcCI6IjEuNjQifQ%3D%3D&sprefix=principles+of+orchestra%2Caps%2C208&sr=8-1]]
 
 * [[Musician’s Survival Guide to a Killer Record - Mixerman|https://www.amazon.com/Musicians-Survival-Guide-Killer-Record/dp/0692194398/ref=sr_1_1?keywords=musicians+survival+guide+to+a+killer+record&qid=1666796668&qu=eyJxc2MiOiIxLjM3IiwicXNhIjoiMS4wNSIsInFzcCI6IjAuODgifQ%3D%3D&sprefix=musicians+sur%2Caps%2C408&sr=8-1]]
 
-* [[The Art and Technique of Electroacoustic Music - Elsea|https://www.amazon.com/Technique-Electroacoustic-Music-Computer-Digital/dp/0895797410/ref=sr_1_1?crid=158E3676QYSV&keywords=art+and+technique+of+electroacoustic+music&qid=1666796702&sprefix=art+and+technique+of+electro%2Caps%2C381&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
-
-* [[The Desert - Van Dyke|https://www.amazon.com/gp/product/0526402229?ref_=dbs_m_mng_rwt_calw_thcv_1&storeType=ebooks&qid=1666796527&sr=8-1]]
-
-* [[I Am a Strange Loop - Hofstadter|https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1666796862&sr=8-1]]
-
 * [[The Jazz Standards - Gioia|https://www.amazon.com/Jazz-Standards-Guide-Repertoire/dp/019008717X/ref=sr_1_1?crid=1JRY3G116MH1U&keywords=jazz+standards+gioia&qid=1666796884&qu=eyJxc2MiOiIxLjE3IiwicXNhIjoiMC4yOCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=jazz+standards+gioi%2Caps%2C258&sr=8-1]]
 
-* [[Applications of Digital Signal Processing to Audio and Acoustics - Kahrs|https://www.amazon.com/Applications-Processing-Acoustics-International-Engineering/dp/0792381300]]
+* [[Contemporary Harmony - Ulehla|https://www.amazon.com/Contemporary-Harmony-Romanticism-Through-Twelve-Tone/dp/3892210616/ref=sr_1_1?crid=BT2HPV2Z3DZO&keywords=contemporary+harmony&qid=1666797500&qu=eyJxc2MiOiIwLjcxIiwicXNhIjoiMC4zMiIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=contemporary+harmon%2Cstripbooks%2C153&sr=1-1]]
 
-* [[The Audio Programming Book - Mathews, Boulanger, Lazzarini|https://www.amazon.com/Audio-Programming-Book-MIT-Press/dp/0262014467/ref=sr_1_4?crid=3L8QZ0LTI43DN&keywords=audio+programming+book&qid=1666797429&qu=eyJxc2MiOiIxLjQxIiwicXNhIjoiMS40NyIsInFzcCI6IjEuMDAifQ%3D%3D&s=books&sprefix=audio+programming+boo%2Cstripbooks%2C165&sr=1-4]]
+* [[The Musician’s Guide to Theory and Analysis - Marvin, Clendinning|https://www.amazon.com/Musicians-Guide-Theory-Analysis-Third/dp/0393263053/ref=sr_1_1?keywords=musicians+guide+to+theory+and+analysis&qid=1666797634&qu=eyJxc2MiOiIyLjE3IiwicXNhIjoiMS45OSIsInFzcCI6IjEuODEifQ%3D%3D&s=books&sprefix=musicians+guide+to+%2Cstripbooks%2C221&sr=1-1&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0]]
+
+* [[The Jazz Theory Book - LeVine|https://www.amazon.com/Jazz-Theory-Book-Mark-Levine/dp/1883217040/ref=sr_1_1?crid=37UE33XUXSPND&keywords=jazz+theory+levine&qid=1666797592&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=jazz+theory+le%2Cstripbooks%2C257&sr=1-1]]
+
+* [[Exploring Jazz Guitar - Hall|https://www.amazon.com/Jim-Hall-Exploring-Recorded-Versions/dp/0793503922/ref=sr_1_1?crid=UK314RULA3V8&keywords=exploring+the+guitar+jim+hall&qid=1666798380&s=books&sprefix=exploring+the+guitar+jim+hall%2Cstripbooks%2C212&sr=1-1]]
+
+
+
+!! Linguistics
 
 * [[Visible Speech - DeFrancis|https://www.amazon.com/Visible-Speech-Diverse-Interactions-Comparisons/dp/0824812077/ref=sr_1_1?crid=106NX082K6BYW&keywords=visible+speech&qid=1666797454&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=visible+speech%2Cstripbooks%2C191&sr=1-1]]
 
-* [[Lo-Tek - Watson|https://www.amazon.com/Watson-Lo_TEK-Design-Radical-Indigenism/dp/3836578182/ref=sr_1_2?crid=19QW3VAU82KM3&keywords=lo-tek&qid=1666797475&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=lo-te%2Cstripbooks%2C175&sr=1-2]]
 
-* [[Contemporary Harmony - Ulehla|https://www.amazon.com/Contemporary-Harmony-Romanticism-Through-Twelve-Tone/dp/3892210616/ref=sr_1_1?crid=BT2HPV2Z3DZO&keywords=contemporary+harmony&qid=1666797500&qu=eyJxc2MiOiIwLjcxIiwicXNhIjoiMC4zMiIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=contemporary+harmon%2Cstripbooks%2C153&sr=1-1]]
+
+!! Programming & Computer Science
 
 * [[Object-Oriented Programming in Common LISP - Keene|https://www.amazon.com/Object-Oriented-Programming-COMMON-LISP-Programmers/dp/0201175894/ref=sr_1_1?crid=CMEUESNKGVRW&keywords=object+oriented+programming+common+lisp&qid=1666797521&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=object+oriented+programming+common+lis%2Cstripbooks%2C157&sr=1-1]]
 
@@ -38,25 +54,30 @@ type: text/vnd.tiddlywiki
 
 * [[Common LISP Recipes - Weitz|https://www.amazon.com/Common-Lisp-Recipes-Problem-Solution-Approach/dp/1484211774/ref=sr_1_3?crid=1GS99NMLZVSLP&keywords=common+lisp+recipes&qid=1666797570&qu=eyJxc2MiOiIwLjQ1IiwicXNhIjoiMC42OCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=common+lisp+recip%2Cstripbooks%2C160&sr=1-3&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
 
-* [[The Jazz Theory Book - LeVine|https://www.amazon.com/Jazz-Theory-Book-Mark-Levine/dp/1883217040/ref=sr_1_1?crid=37UE33XUXSPND&keywords=jazz+theory+levine&qid=1666797592&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=jazz+theory+le%2Cstripbooks%2C257&sr=1-1]]
+* [[Practical Common LISP - Seibel|https://www.amazon.com/Practical-Common-Experts-Programming-Languages/dp/1430242906/ref=sr_1_1?crid=1NG9I35QUGA82&keywords=practical+common+lisp&qid=1666797937&qu=eyJxc2MiOiIxLjIxIiwicXNhIjoiMS4wMSIsInFzcCI6IjEuMTQifQ%3D%3D&s=books&sprefix=practical+common+lis%2Cstripbooks%2C174&sr=1-1]]
 
-* [[The Computer Music Tutorial - Roads|https://www.amazon.com/Computer-Music-Tutorial-MIT-Press/dp/0262680823/ref=sr_1_3?keywords=computer+music+tutorial&qid=1666797612&qu=eyJxc2MiOiIwLjcwIiwicXNhIjoiMC44OSIsInFzcCI6IjAuNjUifQ%3D%3D&s=books&sprefix=computer+music+%2Cstripbooks%2C193&sr=1-3&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
+* [[On LISP - Graham|https://www.amazon.com/Lisp-Advanced-Techniques-Common/dp/0130305529/ref=sr_1_3?keywords=on+lisp&qid=1666797955&qu=eyJxc2MiOiIwLjk2IiwicXNhIjoiMS44MiIsInFzcCI6IjEuNzkifQ%3D%3D&s=books&sr=1-3]]
 
-* [[The Musician’s Guide to Theory and Analysis - Marvin, Clendinning|https://www.amazon.com/Musicians-Guide-Theory-Analysis-Third/dp/0393263053/ref=sr_1_1?keywords=musicians+guide+to+theory+and+analysis&qid=1666797634&qu=eyJxc2MiOiIyLjE3IiwicXNhIjoiMS45OSIsInFzcCI6IjEuODEifQ%3D%3D&s=books&sprefix=musicians+guide+to+%2Cstripbooks%2C221&sr=1-1&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0]]
+
+
+
+
+
+* [[Wilderness Essays - Muir|https://www.amazon.com/Wilderness-Essays-John-Muir/dp/1423607120/ref=sr_1_1?keywords=wilderness+essays+john+muir&qid=1666796527&qu=eyJxc2MiOiIxLjc3IiwicXNhIjoiMS40NSIsInFzcCI6IjEuNjIifQ%3D%3D&sprefix=wilderness+essays%2Caps%2C195&sr=8-1]]
+
+* [[The Art and Technique of Electroacoustic Music - Elsea|https://www.amazon.com/Technique-Electroacoustic-Music-Computer-Digital/dp/0895797410/ref=sr_1_1?crid=158E3676QYSV&keywords=art+and+technique+of+electroacoustic+music&qid=1666796702&sprefix=art+and+technique+of+electro%2Caps%2C381&sr=8-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
+
+* [[The Desert - Van Dyke|https://www.amazon.com/gp/product/0526402229?ref_=dbs_m_mng_rwt_calw_thcv_1&storeType=ebooks&qid=1666796527&sr=8-1]]
+
+* [[I Am a Strange Loop - Hofstadter|https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1666796862&sr=8-1]]
+
+* [[Lo-Tek - Watson|https://www.amazon.com/Watson-Lo_TEK-Design-Radical-Indigenism/dp/3836578182/ref=sr_1_2?crid=19QW3VAU82KM3&keywords=lo-tek&qid=1666797475&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=lo-te%2Cstripbooks%2C175&sr=1-2]]
 
 * [[Wabi-Sabi for Artists, Designers, Poets & Philosophers - Koren|https://www.amazon.com/Wabi-Sabi-Artists-Designers-Poets-Philosophers/dp/0981484603/ref=sr_1_3?crid=29JSN12C49AZZ&keywords=wabi+sabi&qid=1666797656&qu=eyJxc2MiOiI0LjU0IiwicXNhIjoiMy42NCIsInFzcCI6IjMuNzQifQ%3D%3D&s=books&sprefix=wabi+sab%2Cstripbooks%2C159&sr=1-3]]
 
 * [[The Box Man - Abe, Saunders|https://www.amazon.com/Box-Man-Novel-Kobo-Abe/dp/0375726519/ref=sr_1_1?crid=2CZNDYD80COU3&keywords=the+box+man&qid=1666797708&qu=eyJxc2MiOiIxLjEzIiwicXNhIjoiMC44OSIsInFzcCI6IjAuODQifQ%3D%3D&s=books&sprefix=the+box+man%2Cstripbooks%2C172&sr=1-1]]
 
 * [[Advanced Graph Theory and Combinatorics - Rigo|https://www.amazon.com/Advanced-Theory-Combinatorics-Computer-Engineering/dp/1848216165/ref=sr_1_2?crid=3Q0N17Q94WS90&keywords=graph+theory+rigo&qid=1666797729&s=books&sprefix=graph+theory+ri%2Cstripbooks%2C212&sr=1-2&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0]]
-
-* [[Formalized Music - Xenakis|https://www.amazon.com/Formalized-Music-Mathematics-Composition-HARMONOLOGIA/dp/0945193246/ref=sr_1_1?crid=31FPU1PHG36CI&keywords=formalized+music&qid=1666797757&qu=eyJxc2MiOiIyLjA2IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=formalizedmusic%2Cstripbooks%2C142&sr=1-1]]
-
-* [[A Geometry of Music - Tymoczko|https://www.amazon.com/Geometry-Music-Counterpoint-Extended-Practice/dp/0195336674/ref=sr_1_1?crid=2CSBW5LX04T2I&keywords=geometry+of+music&qid=1666797908&qu=eyJxc2MiOiIxLjcwIiwicXNhIjoiMS41MyIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=geometry+of+musi%2Cstripbooks%2C198&sr=1-1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
-
-* [[Practical Common LISP - Seibel|https://www.amazon.com/Practical-Common-Experts-Programming-Languages/dp/1430242906/ref=sr_1_1?crid=1NG9I35QUGA82&keywords=practical+common+lisp&qid=1666797937&qu=eyJxc2MiOiIxLjIxIiwicXNhIjoiMS4wMSIsInFzcCI6IjEuMTQifQ%3D%3D&s=books&sprefix=practical+common+lis%2Cstripbooks%2C174&sr=1-1]]
-
-* [[On LISP - Graham|https://www.amazon.com/Lisp-Advanced-Techniques-Common/dp/0130305529/ref=sr_1_3?keywords=on+lisp&qid=1666797955&qu=eyJxc2MiOiIwLjk2IiwicXNhIjoiMS44MiIsInFzcCI6IjEuNzkifQ%3D%3D&s=books&sr=1-3]]
 
 * [[Visual Group Theory - Carter|https://www.amazon.com/Visual-Theory-Classroom-Resource-Materials/dp/1470464330/ref=sr_1_3?crid=3E1GR06QNSAUT&keywords=visual+group+theory&qid=1666797977&qu=eyJxc2MiOiIxLjgwIiwicXNhIjoiMS4xOSIsInFzcCI6IjAuNjQifQ%3D%3D&s=books&sprefix=visual+group+theor%2Cstripbooks%2C158&sr=1-3&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc]]
 
@@ -75,8 +96,6 @@ type: text/vnd.tiddlywiki
 * [[Colorado’s Canyon Country - Pearson, Fielder|https://www.amazon.com/Colorados-Canyon-Country-Floating-Wildlands/dp/1565793870/ref=sr_1_1?crid=C87CBUKMH353&keywords=colorado+canyon+country&qid=1666798199&s=audible&sprefix=colorados+canyon+country%2Caudible%2C161&sr=1-1]]
 
 * [[Backcountry Ski & Snowboard Routes - Konsella|https://www.amazon.com/Backcountry-Ski-Snowboard-Routes-Colorado/dp/1594858829/ref=sr_1_1?crid=EQN4JNT18DCA&keywords=colorado+backcountry+ski+routes&qid=1666798229&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=audible&sprefix=colorado+backcountry+ski+route%2Caudible%2C147&sr=1-1]]
-
-* [[Exploring Jazz Guitar - Hall|https://www.amazon.com/Jim-Hall-Exploring-Recorded-Versions/dp/0793503922/ref=sr_1_1?crid=UK314RULA3V8&keywords=exploring+the+guitar+jim+hall&qid=1666798380&s=books&sprefix=exploring+the+guitar+jim+hall%2Cstripbooks%2C212&sr=1-1]]
 
 * [[Woodcraft and Camping - Nessmuk|https://www.amazon.com/Woodcraft-Camping-George-Sears-Nessmuk/dp/0486211452/ref=sr_1_4?crid=3O8WO2IN145ZV&keywords=woodcraft+nessmuk&qid=1666798416&qu=eyJxc2MiOiIyLjIwIiwicXNhIjoiMi4zNSIsInFzcCI6IjIuMjAifQ%3D%3D&s=books&sprefix=woodcraft+nessmu%2Cstripbooks%2C148&sr=1-4]]
 
