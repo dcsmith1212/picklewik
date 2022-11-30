@@ -2,10 +2,10 @@ created: 20221117043951205
 creator: derek
 draft.of: 29th November 2022
 draft.title: 29th November 2022
-modified: 20221130005742066
+modified: 20221130005856108
 modifier: derek
 tags: Journal
 title: Draft of '29th November 2022' by derek
 type: text/vnd.tiddlywiki
 
-Today I started look at the HTTP gateway defect that's ruining a bunch Bruce's runs. I 
+Today I started look at the HTTP gateway defect that's ruining a bunch Bruce's runs. The gateway has pretty sparse logging, and
