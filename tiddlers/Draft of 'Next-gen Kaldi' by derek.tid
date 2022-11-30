@@ -1,0 +1,17 @@
+created: 20221130162846358
+creator: derek
+draft.of: Next-gen Kaldi
+draft.title: Next-gen Kaldi
+modified: 20221130182345375
+modifier: derek
+tags: nVoq Kaldi
+title: Draft of 'Next-gen Kaldi' by derek
+type: text/vnd.tiddlywiki
+
+As of the past few years (2020-2022), Dan Povey and other [[Kaldi]] developers at Xiaomi have been working on the next generation of the Kaldi toolkit. The overall goal of the revamp is to build a Kaldi-like system that uses more modern tools, has better performance, and integrates more easily into a production environment. 
+
+As opposed to the rather monolithic structure of the current Kaldi codebase, the next generation will be broken into the following three pieces:
+
+* ''[[lhotse|https://github.com/lhotse-speech/lhotse]]'' does data preparation; suitable for a variety of speech processing tasks
+* ''k2'' contains all core algorithms written in C++ and CUDA (analogous to the current `src` directory)
+* ''icefall'' houses the recipes, using both k2 and lhotse (analogous to the current `egs` directory)
