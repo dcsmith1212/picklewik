@@ -1,0 +1,14 @@
+created: 20221130162846358
+creator: derek
+draft.of: Next-gen Kaldi
+draft.title: Next-gen Kaldi
+modified: 20221130163251914
+modifier: derek
+tags: nVoq Kaldi
+title: Draft of 'Next-gen Kaldi' by derek
+type: text/vnd.tiddlywiki
+
+As of the past few years (2020-2022), Dan Povey and other [[Kaldi]] developers have been working on the next generation of the Kaldi toolkit. As opposed to the rather monolithic structure of the current Kaldi codebase, the next generation will be broken into the following three pieces:
+
+* ''lhotse'' does data preparation; suitable for a variety of speech processing tasks
+* ''k2'' contains all core algorithms written in C++ and CUDA
