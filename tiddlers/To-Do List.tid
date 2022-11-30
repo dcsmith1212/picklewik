@@ -1,6 +1,6 @@
 created: 20221025212934359
 creator: derek
-modified: 20221129013434453
+modified: 20221130005221194
 modifier: derek
 tags: 
 title: To-Do List
@@ -33,9 +33,3 @@ nVoq:
 ** How to write unit tests that use JNI?
 * Use a [[linter|https://github.com/cpplint/cpplint]] on XTopic and plugin
 * Make sure posScale is available in chef cookbook 18.0
-
-Stuff I'm Reading About:
-
-* [[Water Research Assistant job opening|https://static1.squarespace.com/static/5a46b200bff2007bcca6fcf4/t/636ae4415a631c2fee4717e4/1667949634289/Water+Research+Assistant.pdf]]
-* [[A Future On Borrowed Time|https://static1.squarespace.com/static/5a46b200bff2007bcca6fcf4/t/61b678ae088ad458939d92c4/1639348411964/The+Colorado+River+A+Future+on+Borrowed+Time.pdf]]
-* [[Law of the River|https://www.usbr.gov/lc/region/pao/lawofrvr.html#bcp]]
