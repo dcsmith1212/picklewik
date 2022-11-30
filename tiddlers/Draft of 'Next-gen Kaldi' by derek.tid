@@ -2,7 +2,7 @@ created: 20221130162846358
 creator: derek
 draft.of: Next-gen Kaldi
 draft.title: Next-gen Kaldi
-modified: 20221130163602874
+modified: 20221130163705815
 modifier: derek
 tags: nVoq Kaldi
 title: Draft of 'Next-gen Kaldi' by derek
@@ -12,4 +12,4 @@ As of the past few years (2020-2022), Dan Povey and other [[Kaldi]] developers h
 
 * ''lhotse'' does data preparation; suitable for a variety of speech processing tasks
 * ''k2'' contains all core algorithms written in C++ and CUDA (analogous to the current `src` directory)
-* ''icefall'' is the 
+* ''icefall'' houses the recipes, using both k2 and lhotse (analogous to the current `egs1
