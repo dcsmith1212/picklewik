@@ -1,9 +1,11 @@
 created: 20221025212934359
 creator: derek
-modified: 20221130190348986
+draft.of: To-Do List
+draft.title: To-Do List
+modified: 20221130190354308
 modifier: derek
 tags: 
-title: To-Do List
+title: Draft of 'To-Do List' by derek
 type: text/vnd.tiddlywiki
 
 Adulting:
@@ -33,4 +35,4 @@ nVoq:
 ** How to write unit tests that use JNI?
 * Use a [[linter|https://github.com/cpplint/cpplint]] on XTopic and plugin
 * Make sure posScale is available in chef cookbook 18.0
-* Use `Pattern.quote()` in vocab case matcher, rather than my version
+* Use `[[Pattern.quote()` in vocab case matcher, rather than my version
