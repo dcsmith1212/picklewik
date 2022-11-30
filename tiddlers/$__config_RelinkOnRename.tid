@@ -1,8 +1,8 @@
 created: 20221128184642016
 creator: derek
-modified: 20221128184642016
+modified: 20221129221249113
 modifier: derek
 title: $:/config/RelinkOnRename
 type: text/vnd.tiddlywiki
 
-yes
+no

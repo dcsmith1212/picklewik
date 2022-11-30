@@ -1,0 +1,54 @@
+created: 20221129220806154
+creator: derek
+modified: 20221130003243979
+modifier: derek
+tags: [[Utah Rivers Council]]
+title: A Future on Borrowed Time
+type: text/vnd.tiddlywiki
+
+[[A Future on Borrowed Time|https://static1.squarespace.com/static/5a46b200bff2007bcca6fcf4/t/61b678ae088ad458939d92c4/1639348411964/The+Colorado+River+A+Future+on+Borrowed+Time.pdf]] is a report published by the [[Utah Rivers Council]] in 2021 providing an overview of how climate change has already and will continue to affect the [[Colorado River Basin]] and those states that deplete water from it. By analyzing a multitude of possible future scenarios regarding the amount of water flowing through the Basin, the report aims to warn specifically Upper Basin states of the need to proactively manage conservative usage of the river. The basic tenets of the report are as follows:
+
+>The [[Colorado River Basin]] gets 85% of its water from runoff with headwaters in high mountain ranges that comprise only 15% of the Basin's land area. 70-80% of this runoff originates as snowmelt, meaning reduced snowfall in mountainous regions contributes greatly to reduced river flow.
+
+<<big-down-arrow>>
+
+>Climate change is causing temperature rises, longer droughts, dust on snowpack, and shorter winters, all of which reduce snowpack and thus runoff in the Basin. Water flow has already decreased 19% from the 20th Century average, and scientists estimate the flow could continue to deplete as much as 40-50%.
+
+<<big-down-arrow>>
+
+>As the amount of water flowing through the Basin diminishes, Upper Basin states are allocated an ever-decreasing amount of water via the [[Law of the River]], as they have an obligation to provide a fixed amount of water to the Lower Basin and Mexico. As each Upper Basin state is allotted a percentage of these "leftovers", each state's share will continue to decrease as climate change further impacts the Basin.
+
+<<big-down-arrow>>
+
+>Of the four Upper Basin states, only Wyoming is currently using less water than it's allocated per the [[Law of the River]]. As flows continue to decrease, and as native tribes in the Upper Basin states begin to utilize their higher-seniority water rights, all four states will likely hit ever-increasing deficits in water usage.
+
+<<big-down-arrow>>
+
+>By over-using water, the Upper Basin states face potential curtailment, during which states will be required to reduce water usage. Curtailment would begin with the states with the largest deficit, but could affect all of them if usage doesn't decrease enough. The repercussions of curtailment would most significantly affect those groups with the least seniority (e.g. new suburbs) or those with less political heft (e.g. farmers and tribes).
+
+<<big-down-arrow>>
+
+>In order to avoid or limit the severity of curtailment, states should be proactive in addressing water conservation. To achieve this, states need to:
+>* Elect officials who understand and believe the implications of climate change for the Colorado River,
+>* Carefully consider and reconsider further developments of the river, such as the Lake Powell Pipeline, which may jeopardize existing water users when more natural and less costly options may exist,
+>* Improve efficiency of agricultural water systems and water conservation efforts in urban areas, and
+>* Enact policies that encourage water sharing between, and conservation within, usage sectors rather than incentivizing use-it-or-lose-it behavior.
+
+
+! Questions to explore
+
+!! Will rain replace snow in runoff estimates?
+
+As the majority of runoff in the Basin originates as snow in the high mountains, and as climate change warms mountainous regions to the point that rainfall increases, what portion of runoff losses do to less snowfall will be replaced be increases in rainfall? Should these estimates be incorporated into projects of future flow through the Basin?
+
+!! What percentage of observed flow reduction can be attributed to dams and diversion projects?
+
+Based on 20th Century and to-date 21st Century flow averages for the Colorado River, we can come to the following projections about how climate change may continue to affect the flow rate of the Colorado River in the future:
+
+<<centered "[img width=300 [co-river-flow.png]]">>
+
+One question I have about these measurements... Certainly some flow reduction can be attributed to climate change, but I am also curious what portion of the 19% decrease we've seen since the 20th Century can be attributed to diversion and damming projects. The 20th Century average includes half the century before the Glen Canyon Dam was created, not to mention the creation of Flaming Gorge Dam and diversions such as the one that brings water to Colorado's Front Range. These projects must have contributed to the flow decrease in the river. I wonder if these numbers take that into account.
+
+!! How will population increases affect future projections?
+
+All tables for future projections of flow depletion and the resulting allocation each basin and state will receive and how much they will potentially use don't appear to account for population growth. Should this be incorporated?
