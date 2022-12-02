@@ -1,2 +1,3 @@
-list: [[Main Page]] [[To-Do List]]
+list: $:/Import
 title: $:/StoryList
+type: text/vnd.tiddlywiki
