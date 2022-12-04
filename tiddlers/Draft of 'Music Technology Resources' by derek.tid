@@ -2,7 +2,7 @@ created: 20221105035951804
 creator: derek
 draft.of: Music Technology Resources
 draft.title: Music Technology Resources
-modified: 20221204165345793
+modified: 20221204165441766
 modifier: derek
 tags: music-technology
 title: Draft of 'Music Technology Resources' by derek
@@ -27,7 +27,7 @@ type: text/vnd.tiddlywiki
 * Other Kadenze music tech courses
 * Chuck, Max/MSP, Faust
 
-LUTHERIE IDEAS
+!! Lutherie Ideas
 
 * Traveler guitar
 * Electric neck-through
@@ -38,10 +38,7 @@ LUTHERIE IDEAS
 * Piano physical model
 * Grid midi controller
 
-WOODWORKING IDEAS
+!! Reading
 
-* Chitarra
-
-READING
 {{CCRMA and Edinburgh Books}}
 * https://www.mtosmt.org/issues/issues.php
