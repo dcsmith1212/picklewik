@@ -1,6 +1,6 @@
 created: 20221105035951804
 creator: derek
-modified: 20221204165300250
+modified: 20221204165511228
 modifier: derek
 tags: music-technology
 title: Music Technology Resources
@@ -13,19 +13,12 @@ type: text/vnd.tiddlywiki
 * Hextonic Pickups
 * Tim Exile / Flow Machine
 
-* Luthier's Handbook - Siminoff
-* Guitarmaking - Campiano & Natelson
-* NIME Reader
-* Music, Physics, and Engineering - Olson
-* Mathematics of the DFT - Smith
-* Introduction to Digital Filters - Smith
-* Physical Audio Signal Processing - Smith
 * Linnstrument source code
 * Kadenze physical modelling course
 * Other Kadenze music tech courses
 * Chuck, Max/MSP, Faust
 
-LUTHERIE IDEAS
+!! Lutherie Ideas
 
 * Traveler guitar
 * Electric neck-through
@@ -36,10 +29,14 @@ LUTHERIE IDEAS
 * Piano physical model
 * Grid midi controller
 
-WOODWORKING IDEAS
+!! Reading
 
-* Chitarra
-
-READING
 {{CCRMA and Edinburgh Books}}
 * https://www.mtosmt.org/issues/issues.php
+* Luthier's Handbook - Siminoff
+* Guitarmaking - Campiano & Natelson
+* NIME Reader
+* Music, Physics, and Engineering - Olson
+* Mathematics of the DFT - Smith
+* Introduction to Digital Filters - Smith
+* Physical Audio Signal Processing - Smith
