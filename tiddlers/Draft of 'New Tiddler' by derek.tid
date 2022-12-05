@@ -1,0 +1,26 @@
+created: 20221205213131079
+creator: derek
+draft.of: New Tiddler
+draft.title: WebSocket Status Codes
+modified: 20221205213140496
+modifier: derek
+tags: 
+title: Draft of 'New Tiddler' by derek
+type: text/vnd.tiddlywiki
+
+    1000 — CLOSE NORMAL — normal socket shut down
+    1001 — CLOSE_GOING_AWAY — browser tab closing
+    1002 — CLOSE_PROTOCOL_ERROR — endpoint received a malformed frame
+    1003 — CLOSE_UNSUPPORTED — endpoint received unsupported frame
+    1004 — No Code Name — reserved
+    1005 — CLOSED_NO_STATUS — expected close status, received none
+    1006 — CLOSE_ABNORMAL — no close code frame has been received
+    1007 — Unsupported payload — endpoint received an inconsistent message
+    1008 — Policy violation — generic code used for situations other than 1003 and 1009
+    1009 — CLOSE_TOO_LARGE — endpoint won’t process large frame
+    1010 — Mandatory extension — client wanted an extension which server did not negotiate
+    1011 — Server error — internal server error while operating
+    1012 — Service restart — service is restarting
+    1013 — Try again later — temporary server condition forced blocking client’s request
+    1014 — Bad gateway — server acting as gateway received an invalid response
+    1015 — TLS handshake fail — transport Layer Security handshake failure
