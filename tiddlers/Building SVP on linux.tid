@@ -1,8 +1,0 @@
-created: 20221104174947808
-modified: 20221104175557181
-tags: nvoq
-title: Building SVP on linux
-type: text/vnd.tiddlywiki
-
-* Installed ant, findbugs, and copied /usr/share/findbugs/lib/findbugs-ant.jar to /usr/share/ant/lib.
-* Copy SVP/external_lib/jacoco/<version>/jacocoant.jar to /usr/share/ant/lib
