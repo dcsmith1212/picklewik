@@ -1,0 +1,11 @@
+created: 20221207000420970
+creator: derek
+modified: 20221207000705511
+modifier: derek
+tags: Journal
+title: 6th December 2022
+type: text/vnd.tiddlywiki
+
+So I've looking at the segfault in the POS rescoring code, and I think I found a pretty simple fix. It seems like it was an issue with the destructor being called multiple times, so I moved deleting the segfaulting object outside of the destructor. Now I'm starting to transition XTopic over to named components, which is going to be a damn mess.
+
+Rose and I are also starting to plan a backpacking trip for after Dickmas. I think we're either going to Death Valley or to [[Kanab Creek Wilderness]]. Either will be cool, but I've been getting into reports about [[Grand Canyon|Grand Canyon National Park]] trips and I think Kanab Creek would be a good way to quench that thirst for a bit. 
