@@ -1,0 +1,13 @@
+created: 20221207000420970
+creator: derek
+draft.of: 6th December 2022
+draft.title: 6th December 2022
+modified: 20221207000510065
+modifier: derek
+tags: Journal
+title: Draft of '6th December 2022' by derek
+type: text/vnd.tiddlywiki
+
+So I've looking at the segfault in the POS rescoring code, and I think I found a pretty simple fix. It seems like it was an issue with the destructor being called multiple times, so I moved deleting the segfaulting object outside of the destructor.
+
+Rose and I
