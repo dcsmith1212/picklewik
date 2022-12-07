@@ -1,6 +1,6 @@
 created: 20221025212934359
 creator: derek
-modified: 20221130192252817
+modified: 20221207223156013
 modifier: derek
 tags: 
 title: To-Do List
@@ -33,4 +33,3 @@ nVoq:
 ** How to write unit tests that use JNI?
 * Use a [[linter|https://github.com/cpplint/cpplint]] on XTopic and plugin
 * Make sure posScale is available in chef cookbook 18.0
-* Use [[Pattern.quote()|https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html#quote(java.lang.String)]] in vocab case matcher, rather than my version
