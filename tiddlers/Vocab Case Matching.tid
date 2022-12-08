@@ -1,6 +1,6 @@
 created: 20221208045944416
 creator: derek
-modified: 20221208050906155
+modified: 20221208051058868
 modifier: derek
 tags: nVoq
 title: Vocab Case Matching
@@ -10,4 +10,5 @@ When users apply vocabulary phrases comprised of words that are all in the base 
 
 To alleviate this issue and make it appear as though vocab returns more reliably to users, we've implemented vocab case matching, searches over the transcript for each multi-word vocab phrase (allowing for case mismatches) and replaces the match with the vocab's formatting.
 
-The code for this feature is quite simple. For any given `vocabTerm`
+The code for this feature is quite simple. For any given `vocabTerm`, we generate the following pattern to search for matches in the transcript:
+```Pattern.compile("
