@@ -1,6 +1,6 @@
 created: 20221202181220577
 creator: derek
-modified: 20221208001935053
+modified: 20221208002847991
 modifier: derek
 tags: Journal
 title: 1st December 2022
@@ -8,4 +8,4 @@ type: text/vnd.tiddlywiki
 
 Today I figured out what was going wrong with the gateway / HTTP jobs. Turns out when we shutdown the gateway it aborts any currently running jobs and requeues them for another server to pick up. The problem was when jobs with audio done were aborted... just an edge case in some crappy logic we wrote. It was easy to fix.
 
-Tonight Rose and I watched more Hell's Kitchen and I prepped for camping. Decided finally to go to [[Reflection Canyon|Reflection Canyon, Utah]] after all, and if I can swing it, I'll try and see [[Cathedral in the Desert]] too.
+Tonight Rose and I watched more Hell's Kitchen and I prepped for camping. Decided finally to go to [[Reflection Canyon|Reflection Canyon, Utah]] after all, and if I can swing it, I'll try and see [[Cathedral in the Desert|Cathedral in the Desert, Utah]] too.
