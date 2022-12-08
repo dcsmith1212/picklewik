@@ -2,10 +2,10 @@ created: 20221208061938928
 creator: derek
 draft.of: New Tiddler
 draft.title: Mid-Dictation Commands
-modified: 20221208062010758
+modified: 20221208062120185
 modifier: derek
 tags: nVoq
 title: Draft of 'New Tiddler' by derek
 type: text/vnd.tiddlywiki
 
-Mid-Dictation Commands give the user the ability to recognize individual words or phrases 
+Mid-dictation commands give the user the ability to recognize individual words or phrases during a dictation, but have the commands return as separate WebSocket messages  
