@@ -1,6 +1,6 @@
 created: 20221025212934359
 creator: derek
-modified: 20221207223156013
+modified: 20221208040930737
 modifier: derek
 tags: 
 title: To-Do List
@@ -8,7 +8,6 @@ type: text/vnd.tiddlywiki
 
 Adulting:
 
-* [[Buy Christmas presents|Christmas Presents 2022]]
 * Get Utah license (make appointment!)
 * Voter registration
 * United change code: LDXNY2
@@ -21,7 +20,6 @@ Wiki maintenance:
 
 nVoq:
 
-* Test matching/grammar API item
 * Mid-Dictation Commands
 ** Replacing XTopic components on the fly
 ** Optional flag to "ignore" main topic
