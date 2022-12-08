@@ -2,7 +2,7 @@ created: 20221208063812172
 creator: derek
 draft.of: WebSocket
 draft.title: WebSocket
-modified: 20221208064442155
+modified: 20221208064543427
 modifier: derek
 tags: Networking Software
 title: Draft of 'WebSocket' by derek
@@ -10,4 +10,4 @@ type: text/vnd.tiddlywiki
 
 WebSocket is a computer communications protocol that allowed bi-directional communication between a client and a server over a single TCP connection. WebSockets originate as a special HTTP request containing the HTTP Upgrade header from the client, and a handshake then modifies the connection into a WebSocket connection.
 
-Modern web browsers use WebSockets to communicate with web servers in a more efficient way than by using HTTP polling, which is a single-directional protocol
+Modern web browsers use WebSockets to communicate with web servers in a more efficient way than by using HTTP polling, which is an inherently single-directional protocol. T
