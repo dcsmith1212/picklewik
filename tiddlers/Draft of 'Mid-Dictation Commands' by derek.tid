@@ -2,7 +2,7 @@ created: 20221208061938928
 creator: derek
 draft.of: Mid-Dictation Commands
 draft.title: Mid-Dictation Commands
-modified: 20221208063535293
+modified: 20221208063634835
 modifier: derek
 tags: nVoq
 title: Draft of 'Mid-Dictation Commands' by derek
@@ -15,4 +15,4 @@ This functionality is achieved by building an HCLG decoder for commands in real 
 While the initial implementation of mid-dictation commands was fairly pain-free, user adoption on [[test|test.nvoq.com]] has uncovered issues with various subtleties:
 
 * Duplicate and multiple commands for one time-point, since commands can be similar or prefixes of other commands
-* Proper time to send [[COMMAND message|nVoq WebSocket API]] 
+* Proper time to send [[COMMAND message|nVoq WebSocket API]] given that commands can be prefixes of other commands or can be comprised of words in the base topic, and depending on if the dictation is hypothesis or stable text.
