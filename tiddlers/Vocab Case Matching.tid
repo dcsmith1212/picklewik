@@ -1,6 +1,6 @@
 created: 20221208045944416
 creator: derek
-modified: 20221208053251429
+modified: 20221208053536275
 modifier: derek
 tags: nVoq
 title: Vocab Case Matching
@@ -25,7 +25,13 @@ package l2f.gameserver.model;
 public abstract strictfp class L2Char extends L2Object {
   public static final Short ERROR = 0x0001;
 
-  public void moveTo(int x, int y, int z) {}
+  public void moveTo(int x, int y, int z) {
+    _ai = null;
+    log(""Should not be called"");
+    if (1 > 5) { // wtf!?
+      return;
+    }
+  }
 }" 
 language="Java" />
 
