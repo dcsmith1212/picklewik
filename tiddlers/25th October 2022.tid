@@ -1,6 +1,6 @@
 created: 20221025212627558
 creator: derek
-modified: 20221208043902248
+modified: 20221208044001803
 modifier: derek
 tags: Journal
 title: 25th October 2022
@@ -8,10 +8,10 @@ type: text/vnd.tiddlywiki
 
 On this random Tuesday I decided to start journal tiddlers in addition to achronological ones.
 
-Today marks the day that I finished implementing and testing the parts-of-speech rescorer as a component in the ~ReDS. The project has shown to improve on accuracy yet, but it at least gives us a stable method for testing changes (mostly to the tagging) in hopes that it eventually will.
+Today marks the day that I finished implementing and testing the parts-of-speech rescorer as a component in the ReDS. The project has shown to improve on accuracy yet, but it at least gives us a stable method for testing changes (mostly to the tagging) in hopes that it eventually will.
 
-I also volunteered to be the go-to for ~DevOps on issues related to ~ReDS after the 17.2 deployment. I'm a little worried this will cut into the freedom and relaxed schedule I've been enjoying for the past few months, especially now that I'm finally in Kanab and ready to be outside a bunch. But, it will probably be nice to change things up a bit and take on a bit more responsibility for a while.
+I also volunteered to be the go-to for DevOps on issues related to ReDS after the 17.2 deployment. I'm a little worried this will cut into the freedom and relaxed schedule I've been enjoying for the past few months, especially now that I'm finally in Kanab and ready to be outside a bunch. But, it will probably be nice to change things up a bit and take on a bit more responsibility for a while.
 
 During lunch I went for a quick walk on K-Hill Trail. One day it'd be fun to hike from the trailhead all the way up Toms Canyon and the cliffs, over to Squaw trail and down through town for a loop.
 
-Tonight Rose and I are going to St. George to climb. Think I'll see if she wants to stop at Amazing Adventures in La Verkin for a belay device and some approach shoes... those hiking boots just didn't cut it on the [[slickrock slopes in Zion on Saturday|First Trip into the Zion Wilderness]].
+Tonight Rose and I are going to St. George to climb. Think I'll see if she wants to stop at Amazing Adventures in La Verkin for a belay device and some approach shoes... those hiking boots just didn't cut it on the [[slickrock slopes in Zion on Saturday|First trip into the Zion Wilderness, Nov. 2022]].
