@@ -2,7 +2,7 @@ created: 20221208045944416
 creator: derek
 draft.of: Vocab Case Matching
 draft.title: Vocab Case Matching
-modified: 20221208051436010
+modified: 20221208051537464
 modifier: derek
 tags: nVoq
 title: Draft of 'Vocab Case Matching' by derek
@@ -16,4 +16,4 @@ The code for this feature is quite simple. For any given `vocabTerm`, we generat
 
 ```Pattern.compile("(?i)\\b" + Pattern.quote(vocabTerm) + "\\b");```
 
-Note the usage of `Pattern.quote()`, which escapes any special regex characters in the input string so that t.
+Note the usage of `Pattern.quote()`, which escapes any special regex characters in the input string so that only the literal string is matched. This escaping, along with the word boundaries, prevents vocab phrases like e.g. "Dr. S" from matching portions of transcri
