@@ -1,9 +1,9 @@
 created: 20221208061938928
 creator: derek
-modified: 20221208062437477
+modified: 20221208062626698
 modifier: derek
 tags: nVoq
 title: Mid-Dictation Commands
 type: text/vnd.tiddlywiki
 
-Mid-dictation commands give the user the ability to recognize given words or phrases during a dictation, like vocabulary, but have the commands return as separate [[WebSocket]] messages and get removed from the transcript. The user can submit a list of desired commands at the beginning of the dictation via the [[STARTDICTATION WebSocket message|nVoq WebSocket API]], 
+Mid-dictation commands give the user the ability to recognize given words or phrases during a dictation, like vocabulary, but have the commands return as separate [[WebSocket]] messages and get removed from the transcript. The user can submit a list of desired commands at the beginning of the dictation via the [[STARTDICTATION WebSocket message|nVoq WebSocket API]], and they will be recognizable immediately. This functionality is achieved by building an HCLG decoder for commands in real time and adding the decoder as another [[XTopic]] component before starting recognition.
