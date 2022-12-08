@@ -1,7 +1,13 @@
 created: 20221208063812172
 creator: derek
-modified: 20221208063818467
+modified: 20221208065138547
 modifier: derek
-tags: Networking
+tags: Networking Software
 title: WebSocket
 type: text/vnd.tiddlywiki
+
+[img [websocket-diagram.png]]
+
+WebSocket is a computer communications protocol that allowed bi-directional communication between a client and a server over a single TCP connection. WebSockets originate as a special HTTP request containing the HTTP Upgrade header from the client, and a handshake then modifies the connection into a WebSocket connection. After the communication is complete, one of the parties closes the socket with a close status.
+
+Modern web browsers use WebSockets to communicate with web servers in a more efficient way than by using HTTP polling, which is an inherently single-directional protocol. A particular WebSocket API is created by defining how both the client and server respond to various types of messages from each other, including in socket opening, closing, and for various text and binary data transfers. WebSockets are designed to work over TCP port 443 for SSL connections and port 80 for unsecured connections, which allowed for compatibility with other HTTP services like proxies.
