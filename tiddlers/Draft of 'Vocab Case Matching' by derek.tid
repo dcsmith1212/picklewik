@@ -1,0 +1,23 @@
+created: 20221208045944416
+creator: derek
+draft.of: Vocab Case Matching
+draft.title: Vocab Case Matching
+modified: 20221208052040874
+modifier: derek
+tags: nVoq
+title: Draft of 'Vocab Case Matching' by derek
+type: text/vnd.tiddlywiki
+
+When users apply vocabulary phrases comprised of words that are all in the base topic to their account, they can run into an issue where the words are recognized from the base topic rather than the the vocab component and the result casing in the transcript is incorrect. For example, if the phrase "San Carlos Hospital" is applied, the phrase "San Carlos" and the word "hospital" may be recognized via the base topic, giving the wrong case for the word "hospital". 
+
+To alleviate this issue and make it appear as though vocab returns more reliably to users, we've implemented vocab case matching, searches over the transcript for each multi-word vocab phrase (allowing for case mismatches) and replaces the match with the vocab's formatting.
+
+The code for this feature is quite simple. For any given `vocabTerm`, we generate the following pattern to search for matches in the transcript:
+
+```
+Pattern.compile("(?i)\\b" + Pattern.quote(vocabTerm) + "\\b");
+```
+
+<$codeblock code="Pattern.compile(\"(?i)\\b\" + Pattern.quote(vocabTerm) + \"\\b\"); />"
+
+Note the usage of `Pattern.quote()`, which escapes any special regex characters in the input string so that only the literal string is matched. This escaping, along with the word boundaries, prevents vocab phrases like "Dr. S" from matching portions of transcripts like "dry skin". 
