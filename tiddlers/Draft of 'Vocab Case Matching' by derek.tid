@@ -2,7 +2,7 @@ created: 20221208045944416
 creator: derek
 draft.of: Vocab Case Matching
 draft.title: Vocab Case Matching
-modified: 20221208053127679
+modified: 20221208053247535
 modifier: derek
 tags: nVoq
 title: Draft of 'Vocab Case Matching' by derek
@@ -19,7 +19,16 @@ Pattern.compile("(?i)\\b" + Pattern.quote(vocabTerm) + "\\b");
 ```
 
 <$codeblock
-code="Pattern.compile()" 
+code="/**
+ * @author John Smith <john.smith@example.com>
+*/
+package l2f.gameserver.model;
+
+public abstract strictfp class L2Char extends L2Object {
+  public static final Short ERROR = 0x0001;
+
+  public void moveTo(int x, int y, int z) {}
+" 
 language="Java" />
 
 Note the usage of `Pattern.quote()`, which escapes any special regex characters in the input string so that only the literal string is matched. This escaping, along with the word boundaries, prevents vocab phrases like "Dr. S" from matching portions of transcripts like "dry skin". 
