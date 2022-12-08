@@ -2,7 +2,7 @@ created: 20221208045944416
 creator: derek
 draft.of: Vocab Case Matching
 draft.title: Vocab Case Matching
-modified: 20221208052943460
+modified: 20221208053008346
 modifier: derek
 tags: nVoq
 title: Draft of 'Vocab Case Matching' by derek
@@ -18,8 +18,8 @@ The code for this feature is quite simple. For any given `vocabTerm`, we generat
 Pattern.compile("(?i)\\b" + Pattern.quote(vocabTerm) + "\\b");
 ```
 
-<$codeblock code="
-]SELECT * FROM users WHERE deleted = false
-" language="sql" />
+<$codeblock
+code="SELECT * FROM users WHERE deleted = false" 
+language="sql" />
 
 Note the usage of `Pattern.quote()`, which escapes any special regex characters in the input string so that only the literal string is matched. This escaping, along with the word boundaries, prevents vocab phrases like "Dr. S" from matching portions of transcripts like "dry skin". 
