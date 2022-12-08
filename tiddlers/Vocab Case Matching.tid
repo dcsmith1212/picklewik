@@ -1,6 +1,6 @@
 created: 20221208045944416
 creator: derek
-modified: 20221208053536275
+modified: 20221208054051627
 modifier: derek
 tags: nVoq
 title: Vocab Case Matching
@@ -16,8 +16,10 @@ The code for this feature is quite simple. For any given `vocabTerm`, we generat
 Pattern.compile("(?i)\\b" + Pattern.quote(vocabTerm) + "\\b");
 ```
 
+<$codeblock code="""Pattern.compile("(?i)\\b" + Pattern.quote(vocabTerm) + "\\b");""" language="Java" />
+
 <$codeblock
-code="/**
+code="""/**
  * @author John Smith <john.smith@example.com>
 */
 package l2f.gameserver.model;
@@ -27,12 +29,12 @@ public abstract strictfp class L2Char extends L2Object {
 
   public void moveTo(int x, int y, int z) {
     _ai = null;
-    log(""Should not be called"");
+    log("Should not be called");
     if (1 > 5) { // wtf!?
       return;
     }
   }
-}" 
+}"""
 language="Java" />
 
 Note the usage of `Pattern.quote()`, which escapes any special regex characters in the input string so that only the literal string is matched. This escaping, along with the word boundaries, prevents vocab phrases like "Dr. S" from matching portions of transcripts like "dry skin". 
