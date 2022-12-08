@@ -2,16 +2,17 @@ created: 20221208061938928
 creator: derek
 draft.of: Mid-Dictation Commands
 draft.title: Mid-Dictation Commands
-modified: 20221208063434233
+modified: 20221208063535293
 modifier: derek
 tags: nVoq
 title: Draft of 'Mid-Dictation Commands' by derek
 type: text/vnd.tiddlywiki
 
-Mid-dictation commands give the user the ability to recognize given words or phrases during a dictation, like vocabulary, but have the commands return as separate [[WebSocket messages]] and get removed from the transcript. The user can submit a list of desired commands at the beginning of the dictation via the [[STARTDICTATION WebSocket message|nVoq WebSocket API]], and they will be recognizable immediately. 
+Mid-dictation commands give the user the ability to recognize given words or phrases during a dictation, like vocabulary, but have the commands return as separate [[WebSocket messages|nVoq WebSocket API]] and get removed from the transcript. The user can submit a list of desired commands at the beginning of the dictation via the [[STARTDICTATION WebSocket message|nVoq WebSocket API]], and they will be recognizable immediately. 
 
 This functionality is achieved by building an HCLG decoder for commands in real time and adding the decoder as another [[XTopic]] component before starting recognition. Unlike user vocabulary, the commands decoder can be built on-the-fly because of the limitation that commands are unigrams in a statistical language model. This assumption lets us build the grammar and lexicon FSTs from scratch, skipping the typical counts->ARPA->FST->decoder framework we use for the base topic and user vocabulary. Given the relatively small size of these data structures and our building them directly, the overall commands decoder build time is quite low.
 
 While the initial implementation of mid-dictation commands was fairly pain-free, user adoption on [[test|test.nvoq.com]] has uncovered issues with various subtleties:
 
-* Duplicate and multiple commands for one time-point, since commands can be 
+* Duplicate and multiple commands for one time-point, since commands can be similar or prefixes of other commands
+* Proper time to send [[COMMAND message|nVoq WebSocket API]] 
