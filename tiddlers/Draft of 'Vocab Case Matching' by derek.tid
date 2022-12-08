@@ -2,7 +2,7 @@ created: 20221208045944416
 creator: derek
 draft.of: Vocab Case Matching
 draft.title: Vocab Case Matching
-modified: 20221208051159743
+modified: 20221208051334244
 modifier: derek
 tags: nVoq
 title: Draft of 'Vocab Case Matching' by derek
@@ -16,4 +16,4 @@ The code for this feature is quite simple. For any given `vocabTerm`, we generat
 
 ```Pattern.compile("(?i)\\b" + Pattern.quote(vocabTerm) + "\\b");```
 
-Note the usage of `Pattern.quote()`, which 
+Note the usage of `Pattern.quote()`, which escapes 
