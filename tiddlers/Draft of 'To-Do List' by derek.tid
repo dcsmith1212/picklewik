@@ -1,0 +1,37 @@
+created: 20221025212934359
+creator: derek
+draft.of: To-Do List
+draft.title: To-Do List
+modified: 20221208040858642
+modifier: derek
+tags: 
+title: Draft of 'To-Do List' by derek
+type: text/vnd.tiddlywiki
+
+Adulting:
+
+* [[Buy Christmas presents|Christmas Presents 2022]]
+* Get Utah license (make appointment!)
+* Voter registration
+* United change code: LDXNY2
+
+Wiki maintenance:
+
+* https://groktiddlywiki.com/read/
+* Move calender to the wiki
+* [[Tiddlers to Write]]
+
+nVoq:
+
+* Test matching/grammar API item
+* Mid-Dictation Commands
+** Replacing XTopic components on the fly
+** Optional flag to "ignore" main topic
+** Write item for these two things
+** Write item for named components in XTopic
+* Item for getting debug artifacts and debug logging uploaded to S3
+* Integrating Phonetisaurus
+** Remove all the g2p-seq2seq crap from LM
+** How to write unit tests that use JNI?
+* Use a [[linter|https://github.com/cpplint/cpplint]] on XTopic and plugin
+* Make sure posScale is available in chef cookbook 18.0
