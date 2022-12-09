@@ -1,9 +1,9 @@
 created: 20221118194627257
 creator: derek
-modified: 20221208060502712
+modified: 20221208165042419
 modifier: derek
 tags: Networking Software
-title: Reverse proxy
+title: Reverse Proxy
 type: text/vnd.tiddlywiki
 
 [img [reverse_proxy.svg]]

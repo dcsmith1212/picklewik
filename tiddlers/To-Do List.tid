@@ -1,6 +1,6 @@
 created: 20221025212934359
 creator: derek
-modified: 20221208061921076
+modified: 20221209002048200
 modifier: derek
 tags: 
 title: To-Do List
@@ -32,3 +32,5 @@ nVoq:
 ** How to write unit tests that use JNI?
 * Use a [[linter|https://github.com/cpplint/cpplint]] on XTopic and plugin
 * Make sure posScale is available in chef cookbook 18.0
+* Refactor normalization map parser
+* Change nv_reds and other cookbooks to send DEBUG logs to graylog
