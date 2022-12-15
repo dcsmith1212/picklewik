@@ -1,0 +1,18 @@
+.centered {
+  text-align: center;
+}
+
+.right-aligned {
+  text-align: right;
+}
+
+.big-arrow {
+  text-align: center;
+  font-size: 4em;
+  margin-top: 0.4em;
+  margin-bottom: 0.5em;
+}
+
+.light-bg-centered {
+  background: rgb(232,232,232);
+}
