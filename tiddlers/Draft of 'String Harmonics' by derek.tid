@@ -2,7 +2,7 @@ created: 20221215175841742
 creator: derek
 draft.of: String Harmonics
 draft.title: String Harmonics
-modified: 20221215190850776
+modified: 20221215191144604
 modifier: derek
 tags: [[Music Theory]]
 title: Draft of 'String Harmonics' by derek
@@ -14,4 +14,4 @@ For stringed instruments, these overtones can be isolated by playing string harm
 
 [img [harmonics.svg]]
 
-As the 
+One may notice that as the node played gets closer to the nut of the instrument, it wanders farther from any defined fret. This is because the harmonic s
