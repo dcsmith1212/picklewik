@@ -1,12 +1,12 @@
 created: 20221208063812172
 creator: derek
-modified: 20221208065138547
+modified: 20221215221928155
 modifier: derek
 tags: Networking Software
 title: WebSocket
 type: text/vnd.tiddlywiki
 
-[img [websocket-diagram.png]]
+<<light-bg "[img [websocket-diagram.png]]">>
 
 WebSocket is a computer communications protocol that allowed bi-directional communication between a client and a server over a single TCP connection. WebSockets originate as a special HTTP request containing the HTTP Upgrade header from the client, and a handshake then modifies the connection into a WebSocket connection. After the communication is complete, one of the parties closes the socket with a close status.
 
