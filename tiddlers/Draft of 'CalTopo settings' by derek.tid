@@ -1,14 +1,16 @@
 created: 20221130030428508
 creator: derek
-modified: 20221215225520326
+draft.of: CalTopo settings
+draft.title: CalTopo settings
+modified: 20221215225538832
 modifier: derek
 tags: 
-title: CalTopo settings
+title: Draft of 'CalTopo settings' by derek
 type: text/vnd.tiddlywiki
 
-"""
 !!! 1-14505
 
+"""
 e1-1000f 9C0059-D000D0
 e1001-2000f D000D0-B300FF
 e2001-3000f B300FF-6600FF
@@ -23,8 +25,9 @@ e10001-11000f FF9A00-FF7700
 e11001-12000f FF7700-B2A7A4
 e12001-13000f B2A7A4-FFFFFF
 e13001-14505f FFFFFF-FFFFFF
+"""
 
-Medium:
+dium:
 
 e-300--1f 9C0059-9C0059
 e1-2200f 9C0059-9C0059
