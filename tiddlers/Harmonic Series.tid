@@ -1,6 +1,6 @@
 created: 20221215194959804
 creator: derek
-modified: 20221215195519214
+modified: 20221215200604782
 modifier: derek
 tags: [[Music Theory]] Mathematics
 title: Harmonic Series
@@ -11,3 +11,7 @@ In mathematics, the harmonic series is the infinite sum of the reciprocals of al
 $$
 \sum_{n=1}^{\infty} \frac{1}{n} = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5} + \cdots
 $$
+
+The harmonic series in math gets its name from its usage in music theory, where it describes the overtone series obtained by dividing a wave into fractions of its length to obtains increasingly higher frequency pitches. On stringed instruments these overtones can be evoked by [[stopping the string's vibration|String Harmonics]] at unit fractions of its length, and overtones can be played on other types of instruments as well.
+
+[img [string-harmonics.png]] 
