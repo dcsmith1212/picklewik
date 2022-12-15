@@ -2,7 +2,7 @@ created: 20221215175841742
 creator: derek
 draft.of: String Harmonics
 draft.title: String Harmonics
-modified: 20221215191850511
+modified: 20221215191951475
 modifier: derek
 tags: [[Music Theory]]
 title: Draft of 'String Harmonics' by derek
@@ -16,4 +16,4 @@ For stringed instruments, these overtones can be isolated by playing string harm
 
 One may notice that some overtones don't fall directly on frets like the 2nd harmonic does. This is because the harmonic series for a given string follows [[just temperament|Just Temperament]] with that string's open note as the root, whereas stringed instruments (and most other instruments these days) are built for [[12-tone equal temperament|Equal Temperament]]. This also explains why some overtones, especially the 7th, 11th, and 13th, are far from being "in-tune" with the 12-tone equal temperament system.
 
-When played on open strings, harmonics are called //natural//. One may also play //artificial harmonics// by 
+When played on open strings, harmonics are called //natural//. One may also play //artificial harmonics// by fretting the string one hand and adjusting the location at which the harmonics are played by the other hand by the corresponding number of frets. As one hand is now occupied with fretting, t
