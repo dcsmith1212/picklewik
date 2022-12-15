@@ -1,0 +1,45 @@
+created: 20221128201120848
+creator: derek
+draft.of: Global Macros
+draft.title: Global Macros
+modified: 20221215192254638
+modifier: derek
+tags: $:/tags/Macro
+title: Draft of 'Global Macros' by derek
+type: text/vnd.tiddlywiki
+
+\define centered(entity)
+<div class="centered">
+$entity$
+</div>
+\end
+
+
+\define centered-h3(entity)
+<h3 class="centered">
+$entity$
+</h3>
+\end
+
+
+\define right-aligned(entity)
+<div class="right-aligned">
+$entity$
+</div>
+\end
+
+
+\define big-down-arrow()
+<div class="big-arrow">
+&#8595;
+
+<br>
+\end
+
+
+\define l()
+<div class="big-arrow">
+&#8595;
+
+<br>
+\end
