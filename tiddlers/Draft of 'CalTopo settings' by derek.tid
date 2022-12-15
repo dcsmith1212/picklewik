@@ -2,13 +2,13 @@ created: 20221130030428508
 creator: derek
 draft.of: CalTopo settings
 draft.title: CalTopo settings
-modified: 20221215225639085
+modified: 20221215225734873
 modifier: derek
 tags: 
 title: Draft of 'CalTopo settings' by derek
 type: text/vnd.tiddlywiki
 
-!!! 0-13,000
+!!! For 0' -- 13,000'
 
 """
 e1-1000f 9C0059-D000D0
@@ -27,7 +27,7 @@ e12001-13000f B2A7A4-FFFFFF
 e13001-14505f FFFFFF-FFFFFF
 """
 
-!!! -300 - 15000
+!!! For 2,200' - 15000
 
 """
 e-300--1f 9C0059-9C0059
