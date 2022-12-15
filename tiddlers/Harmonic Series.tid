@@ -1,11 +1,11 @@
 created: 20221215194959804
 creator: derek
-modified: 20221215195146968
+modified: 20221215195248099
 modifier: derek
 tags: [[Music Theory]] Mathematics
 title: Harmonic Series
 type: text/vnd.tiddlywiki
 
 $$
-\sum_{n=1}^{\infty} \frac{1}{n} =
+\sum_{n=1}^{\infty} \frac{1}{n} = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5} + \ellipses
 $$
