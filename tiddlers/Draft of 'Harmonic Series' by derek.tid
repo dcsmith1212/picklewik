@@ -2,12 +2,12 @@ created: 20221215194959804
 creator: derek
 draft.of: Harmonic Series
 draft.title: Harmonic Series
-modified: 20221215195112391
+modified: 20221215195213781
 modifier: derek
 tags: [[Music Theory]] Mathematics
 title: Draft of 'Harmonic Series' by derek
 type: text/vnd.tiddlywiki
 
 $$
-sum_{n=1}^{\infty}
+\sum_{n=1}^{\infty} \frac{1}{n} = 1 + \frac{1}{2} + \frac{1}{2} + \frac{1}{2} +
 $$
