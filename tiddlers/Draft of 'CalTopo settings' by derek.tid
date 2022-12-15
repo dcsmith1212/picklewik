@@ -2,7 +2,7 @@ created: 20221130030428508
 creator: derek
 draft.of: CalTopo settings
 draft.title: CalTopo settings
-modified: 20221215225734873
+modified: 20221215225834964
 modifier: derek
 tags: 
 title: Draft of 'CalTopo settings' by derek
@@ -27,7 +27,7 @@ e12001-13000f B2A7A4-FFFFFF
 e13001-14505f FFFFFF-FFFFFF
 """
 
-!!! For 2,200' - 15000
+!!! For 2,200' -- 9,200'
 
 """
 e-300--1f 9C0059-9C0059
@@ -49,8 +49,9 @@ e8700-9200f FF0000-FF8080
 e9200-15000f FF8080-FF8080
 """
 
-!!! 1 -
+!!! For 1,800' -- 4,800'
 
+"""
 e1-1800f B300FF-B300FF
 e1800-2100f B300FF-6600FF
 e2100-2400f 6600FF-0000FF
@@ -63,9 +64,11 @@ e3900-4200f FFB300-FF9A00
 e4200-4500f FF9A00-FF7700
 e4500-4800f FF7700-B2A7A4
 e4800-15000f B2A7A4-B2A7A4
+"""
 
+!!! For 2,000' -- 4,800'
 
-
+"""
 e1-2000f B300FF-B300FF
 e2000-2500f B300FF-6600FF
 e2500-3000f 6600FF-0000FF
