@@ -1,6 +1,6 @@
 created: 20221215194959804
 creator: derek
-modified: 20221215200604782
+modified: 20221215200626129
 modifier: derek
 tags: [[Music Theory]] Mathematics
 title: Harmonic Series
@@ -14,4 +14,4 @@ $$
 
 The harmonic series in math gets its name from its usage in music theory, where it describes the overtone series obtained by dividing a wave into fractions of its length to obtains increasingly higher frequency pitches. On stringed instruments these overtones can be evoked by [[stopping the string's vibration|String Harmonics]] at unit fractions of its length, and overtones can be played on other types of instruments as well.
 
-[img [string-harmonics.png]] 
+<<light-bg "[img width=400 [string-harmonics.png]]">> 
