@@ -13,6 +13,7 @@
   margin-bottom: 0.5em;
 }
 
-.light-bg {
+.light-bg-centered {
   background: rgb(232,232,232);
+  text-align: center;
 }
