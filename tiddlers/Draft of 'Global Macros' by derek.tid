@@ -2,7 +2,7 @@ created: 20221128201120848
 creator: derek
 draft.of: Global Macros
 draft.title: Global Macros
-modified: 20221215192254638
+modified: 20221215192355540
 modifier: derek
 tags: $:/tags/Macro
 title: Draft of 'Global Macros' by derek
@@ -32,14 +32,13 @@ $entity$
 \define big-down-arrow()
 <div class="big-arrow">
 &#8595;
-
+</div>
 <br>
 \end
 
 
-\define l()
-<div class="big-arrow">
-&#8595;
+\define light-bg(entity)
+<div class="light-bg">
 
-<br>
+<
 \end
