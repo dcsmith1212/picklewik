@@ -2,12 +2,12 @@ created: 20221216185500186
 creator: derek
 draft.of: Template (C++)
 draft.title: Template (C++)
-modified: 20221216190116639
+modified: 20221216190139661
 modifier: derek
 tags: C++
 title: Draft of 'Template (C++)' by derek
 type: text/vnd.tiddlywiki
 
-Templates in C++ allow for one to define functions, classes, and variables with generic types, thus avoiding the need to write duplicate code that differs only one or more data types it operates on. For example, the following STL method `max()`
+Templates in C++ allow for one to define functions, classes, and variables with generic types, thus avoiding the need to write duplicate code that differs only one or more data types it operates on. For example, the following STL method `max` is defined to compare two objects of the type
 
 <$codeblock code="""template<typename T> T max(T &a, T &b) { return a > b ? a : b; }""" language="C++" />
