@@ -1,0 +1,11 @@
+created: 20221216185500186
+creator: derek
+draft.of: Template (C++)
+draft.title: Template (C++)
+modified: 20221216185813132
+modifier: derek
+tags: C++
+title: Draft of 'Template (C++)' by derek
+type: text/vnd.tiddlywiki
+
+<$codeblock code="""template<typename T> T max(T &a, T &b) { return a > b ? a : b; }""" language="C++" />
