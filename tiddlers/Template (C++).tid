@@ -1,7 +1,9 @@
 created: 20221216185500186
 creator: derek
-modified: 20221216185528020
+modified: 20221216185815194
 modifier: derek
 tags: C++
 title: Template (C++)
 type: text/vnd.tiddlywiki
+
+<$codeblock code="""template<typename T> T max(T &a, T &b) { return a > b ? a : b; }""" language="C++" />
