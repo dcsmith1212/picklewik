@@ -2,12 +2,12 @@ created: 20221216185500186
 creator: derek
 draft.of: Template (C++)
 draft.title: Template (C++)
-modified: 20221216185914788
+modified: 20221216190015476
 modifier: derek
 tags: C++
 title: Draft of 'Template (C++)' by derek
 type: text/vnd.tiddlywiki
 
-Templates in C++ allow for one to define functions, classes, and (since 
+Templates in C++ allow for one to define functions, classes, and variables with 
 
 <$codeblock code="""template<typename T> T max(T &a, T &b) { return a > b ? a : b; }""" language="C++" />
