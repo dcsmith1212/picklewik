@@ -1,0 +1,9 @@
+created: 20221217172821478
+creator: derek
+modified: 20221217173655835
+modifier: derek
+tags: nVoq [[Speech Recognition]]
+title: Kaldi
+type: text/vnd.tiddlywiki
+
+Kaldi is an open-source speech recognition and signal processing toolkit written in C++. The toolkit is comprised of a highly modular `src` directory which includes code for training a variety of statistical learning models and deep neural networks, for beam search decoding and lattice generation for real-time speech processing, for acoustical transforms such an mfcc, fbank, and fMLLR, and much more. Kaldi also includes an `egs` directory containing recipes for training various types of acoustic models on different datasets. Kaldi is built on the OpenFST library, and uses [[FSTs|Finite-State Tranducer]] in a wide variety of contexts. 
