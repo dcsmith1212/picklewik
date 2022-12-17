@@ -2,10 +2,10 @@ created: 20221217172821478
 creator: derek
 draft.of: Kaldi
 draft.title: Kaldi
-modified: 20221217172837228
+modified: 20221217172953960
 modifier: derek
 tags: nVoq [[Speech Recognition]]
 title: Draft of 'Kaldi' by derek
 type: text/vnd.tiddlywiki
 
-Kaldi is an open-source speech recognition
+Kaldi is an open-source speech recognition atoolkit written in C++. 
