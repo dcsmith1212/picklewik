@@ -2,10 +2,10 @@ created: 20221217172821478
 creator: derek
 draft.of: Kaldi
 draft.title: Kaldi
-modified: 20221217172953960
+modified: 20221217173055181
 modifier: derek
 tags: nVoq [[Speech Recognition]]
 title: Draft of 'Kaldi' by derek
 type: text/vnd.tiddlywiki
 
-Kaldi is an open-source speech recognition atoolkit written in C++. 
+Kaldi is an open-source speech recognition and signal processing toolkit written in C++. The toolkit is comprised of a highly modular `src` directory which includes code 
