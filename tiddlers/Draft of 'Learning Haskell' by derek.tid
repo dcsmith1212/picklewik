@@ -1,0 +1,19 @@
+created: 20221220063209222
+creator: derek
+draft.of: Learning Haskell
+draft.title: Learning Haskell
+modified: 20221220063405727
+modifier: derek
+tags: 
+title: Draft of 'Learning Haskell' by derek
+type: text/vnd.tiddlywiki
+
+!! Tips
+ 
+* It's preferable to write functions in terms of `foldr` (and maybe t
+
+!! Related Tiddlers
+
+* [[Map (higher-order function]]
+* [[Filter (higher-order function]]
+* [[Fold (higher-order function]]
