@@ -1,6 +1,6 @@
 created: 20221220060500608
 creator: derek
-modified: 20221220062017049
+modified: 20221220062208670
 modifier: derek
 tags: [[Functional Programming]]
 title: Fold (higher-order function)
@@ -12,4 +12,6 @@ If a list is thought of as a series of nested `cons` nodes as is done in many fu
 
 <<centered "[img [foldr.png]]">>
 
-In the case of summing a list, the replacement operation is `+` and the "starting" value is 0.
+In the case of summing a list, the replacement operation is `+` and the "starting" value is 0. The case shown above is a right fold. A left fold operates similarly but with the links of each node flipped.
+
+<<centered "[img [foldl.png]]">>

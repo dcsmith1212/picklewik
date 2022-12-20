@@ -1,0 +1,11 @@
+created: 20221220062219064
+creator: derek
+draft.of: New Tiddler
+draft.title: Map (higher-order function)
+modified: 20221220062255196
+modifier: derek
+tags: [[Functional Programming]]
+title: Draft of 'New Tiddler' by derek
+type: text/vnd.tiddlywiki
+
+In functional programming, a map takes a collection of data and applies and operation to its elements recursively, returns a 
