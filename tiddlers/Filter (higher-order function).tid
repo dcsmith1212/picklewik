@@ -1,0 +1,9 @@
+created: 20221220062626899
+creator: derek
+modified: 20221220062850062
+modifier: derek
+tags: [[Functional Programming]]
+title: Filter (higher-order function)
+type: text/vnd.tiddlywiki
+
+In functional programming, a filter applies an operation to a collection of data, returning a collection of the same type that may contain a subset of the original collection. For example, in Haskell `filter even [1..10]` will 
