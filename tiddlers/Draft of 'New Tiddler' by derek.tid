@@ -2,10 +2,10 @@ created: 20221220062219064
 creator: derek
 draft.of: New Tiddler
 draft.title: Map (higher-order function)
-modified: 20221220062457274
+modified: 20221220062520008
 modifier: derek
 tags: [[Functional Programming]]
 title: Draft of 'New Tiddler' by derek
 type: text/vnd.tiddlywiki
 
-In programming languages, a map takes a collection of data and applies and operation to its elements, returns a collection of the same size that has been modified element-wise. Maps are common in functional languages as a replacement for loops, and they are also integral to l
+In programming languages, a map takes a collection of data and applies and operation to its elements, returns a collection of the same size that has been modified element-wise. Maps are common in functional languages as a replacement for loops, and they are also integral to languages like MATLAB to applied functions to large collections efficiently.
