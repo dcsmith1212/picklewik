@@ -2,12 +2,12 @@ created: 20221220054518833
 creator: derek
 draft.of: 19th December 2022
 draft.title: 19th December 2022
-modified: 20221220054837404
+modified: 20221220054938369
 modifier: derek
 tags: Journal
 title: Draft of '19th December 2022' by derek
 type: text/vnd.tiddlywiki
 
-Today it was back to work after the weekend. I feel pretty much fine today, and it was back to the [[XTopic]] refactor. I made a good amount of progress with the XContainerFst.
+Today it was back to work after the weekend. I feel pretty much fine today, and it was back to the [[XTopic]] refactor. I made a good amount of progress with the XContainerFst. I made dinner, and watched Malcolm in the Middle with Rose in the evening.
 
-I made dinner, and watched Malcolm in the Middle with Rose in the evening. I also continued studying Haskell, finishing the boring af chapter on writing a JSON parser, and I did a couple exercises to p
+I also continued studying Haskell, finishing the boring af chapter on writing a JSON parser, and I did a couple exercises to practice with recursion and the fold functions. It is going to take some time to come to grips with thinking about things in this functional, recursion-based way. Tomorrow I'll start reading about typec
