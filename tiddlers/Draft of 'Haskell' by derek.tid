@@ -2,7 +2,7 @@ created: 20221220055027754
 creator: derek
 draft.of: Haskell
 draft.title: Haskell
-modified: 20221220055139211
+modified: 20221220055154466
 modifier: derek
 tags: [[Programming Languages]]
 title: Draft of 'Haskell' by derek
@@ -10,4 +10,4 @@ type: text/vnd.tiddlywiki
 
 <<centered "[img width=200 [haskell-logo.png]]">>
 
-Haskell is a 
+Haskell is a purely functional, statically, strongly typed programming language
