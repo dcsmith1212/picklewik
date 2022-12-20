@@ -1,0 +1,11 @@
+created: 20221220060500608
+creator: derek
+draft.of: New Tiddler
+draft.title: Fold (higher-order function)
+modified: 20221220060543325
+modifier: derek
+tags: [[Functional Programming]]
+title: Draft of 'New Tiddler' by derek
+type: text/vnd.tiddlywiki
+
+In functional programming, a fold is an operation which applies an operation to a collection of data in order to com
