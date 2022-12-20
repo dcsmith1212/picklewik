@@ -1,6 +1,6 @@
 created: 20221220055027754
 creator: derek
-modified: 20221220055536755
+modified: 20221220055603012
 modifier: derek
 tags: [[Programming Languages]]
 title: Haskell
@@ -11,7 +11,19 @@ type: text/vnd.tiddlywiki
 Haskell is a general-purpose, purely functional, statically, strongly typed programming language. First appearing in the in 1990, Haskell has pioneered multiple programming language features including type classes and monads. Below is the quicksort algorithm written in Haskell:
 
 """
-<$codeblock code="""
-template<typename T> T max(T &a, T &b) { return a > b ? a : b; }
-""" language="C++" />
+<$codeblock code="""-- Type annotation (optional, same for each implementation)
+quickSort :: Ord a => [a] -> [a]
+
+-- Using list comprehensions
+quickSort []     = []                               -- The empty list is already sorted
+quickSort (x:xs) = quickSort [a | a <- xs, a < x]   -- Sort the left part of the list
+                   ++ [x] ++                        -- Insert pivot between two sorted parts
+                   quickSort [a | a <- xs, a >= x]  -- Sort the right part of the list
+
+-- Using filter
+quickSort []     = []
+quickSort (x:xs) = quickSort (filter (<x) xs)
+                   ++ [x] ++
+                   quickSort (filter (>=x) xs)
+""" language="Haskell" />
 """
