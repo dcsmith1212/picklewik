@@ -1,10 +1,14 @@
 created: 20221220063209222
 creator: derek
-modified: 20221220063310391
+modified: 20221220063529924
 modifier: derek
 tags: 
 title: Learning Haskell
 type: text/vnd.tiddlywiki
+
+!! Tips
+ 
+* It's preferable to write functions in terms of `foldr` (and maybe `foldl'`), `map`, and `filter` rather than writing methods that do recursion directly. Using existing functions formulates our code in a way that's easier to understand (only the "operator" needs to be grokked, rather than a whole bunch of recursion code).
 
 !! Related Tiddlers
 
