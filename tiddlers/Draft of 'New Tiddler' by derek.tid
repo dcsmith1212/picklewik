@@ -2,10 +2,12 @@ created: 20221220060500608
 creator: derek
 draft.of: New Tiddler
 draft.title: Fold (higher-order function)
-modified: 20221220060944188
+modified: 20221220061041241
 modifier: derek
 tags: [[Functional Programming]]
 title: Draft of 'New Tiddler' by derek
 type: text/vnd.tiddlywiki
 
-In functional programming, a fold is an operation which recursively applies an operation to a collection of data in order to combine the collection into a value of some kind. For example. summing the values in a list could be done via a fold
+In functional programming, a fold is an operation which recursively applies an operation to a collection of data in order to combine the collection into a value of some kind. For example. summing the values in a list could be done via a fold by accumulating the intermediate sums of its values while recursing over them.
+
+If a list can be thought of as 
