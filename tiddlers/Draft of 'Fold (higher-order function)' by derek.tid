@@ -2,7 +2,7 @@ created: 20221220060500608
 creator: derek
 draft.of: Fold (higher-order function)
 draft.title: Fold (higher-order function)
-modified: 20221220061921108
+modified: 20221220062045046
 modifier: derek
 tags: [[Functional Programming]]
 title: Draft of 'Fold (higher-order function)' by derek
@@ -10,4 +10,8 @@ type: text/vnd.tiddlywiki
 
 In functional programming, a fold is an operation which recursively applies an operation to a collection of data in order to combine the collection into a value of some kind. For example. summing the values in a list could be done via a fold by accumulating the intermediate sums of its values while recursing over them.
 
-If a list is thought of as a series of nested `cons` nodes as is done in many functional languages (i.e. `[1,2,3]` as `(cons 1 (cons 2 (cons 3 ([]))))`, then a fold can be thought of as replacing the `cons` with another operation, and the terminating empty list with a specific value. In the case of summing a list, the replacement operation is `+` and the "starting" value is 0.
+If a list is thought of as a series of nested `cons` nodes as is done in many functional languages (i.e. `[1,2,3]` as `(cons 1 (cons 2 (cons 3 ([]))))`, then a fold can be thought of as replacing the `cons` with another operation, and the terminating empty list with a specific value. 
+
+<<centered "[img [foldr.png]]">>
+
+In the case of summing a list, the replacement operation is `+` and the "starting" value is 0. The case shown above is a right fold. A left operates
