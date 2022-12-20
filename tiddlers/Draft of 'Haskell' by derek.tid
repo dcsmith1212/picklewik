@@ -2,7 +2,7 @@ created: 20221220055027754
 creator: derek
 draft.of: Haskell
 draft.title: Haskell
-modified: 20221220055425823
+modified: 20221220055538783
 modifier: derek
 tags: [[Programming Languages]]
 title: Draft of 'Haskell' by derek
@@ -10,4 +10,10 @@ type: text/vnd.tiddlywiki
 
 <<centered "[img width=200 [haskell-logo.png]]">>
 
-Haskell is a general-purpose, purely functional, statically, strongly typed programming language. First appearing in the in 1990, Haskell has pioneered multiple programming language features including type classes and monads. Below is the quicksort algorithm in the 
+Haskell is a general-purpose, purely functional, statically, strongly typed programming language. First appearing in the in 1990, Haskell has pioneered multiple programming language features including type classes and monads. Below is the quicksort algorithm written in Haskell:
+
+"""
+<$codeblock code="""
+template<typename T> T max(T &a, T &b) { return a > b ? a : b; }
+""" language="C++" />
+"""
