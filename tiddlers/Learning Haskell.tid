@@ -1,6 +1,6 @@
 created: 20221220063209222
 creator: derek
-modified: 20221220063529924
+modified: 20221222003404212
 modifier: derek
 tags: 
 title: Learning Haskell
@@ -9,6 +9,17 @@ type: text/vnd.tiddlywiki
 !! Tips
  
 * It's preferable to write functions in terms of `foldr` (and maybe `foldl'`), `map`, and `filter` rather than writing methods that do recursion directly. Using existing functions formulates our code in a way that's easier to understand (only the "operator" needs to be grokked, rather than a whole bunch of recursion code).
+
+!! Functional Programming and Math Resources
+
+* [[Real World Haskell|https://book.realworldhaskell.org/read/]]
+* [[A tutorial on the universality and expressiveness of fold|http://www.cs.nott.ac.uk/~pszgmh/fold.pdf]]
+* [[Why Functional Programming Matters|https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf]]
+* [[Category Theory for Programmers|https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/]]
+* [[Lambda the Universe|http://lambda-the-ultimate.org/papers]]
+* [[The Catsters Videos|https://www.youtube.com/@TheCatsters/videos]]
+* [[Comprehending Monads|https://ncatlab.org/nlab/files/WadlerMonads.pdf]]
+* [[Imperative Functional Programming|https://dl.acm.org/doi/pdf/10.1145/158511.158524]]
 
 !! Related Tiddlers
 

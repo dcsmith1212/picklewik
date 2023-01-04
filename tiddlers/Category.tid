@@ -1,0 +1,11 @@
+created: 20221222004042670
+creator: derek
+modified: 20221222010510842
+modifier: derek
+tags: [[Functional Programming]] Mathematics
+title: Category
+type: text/vnd.tiddlywiki
+
+[img [category.jpg]]
+
+A category is a collection of objects and arrows that follow a few simple rules. If object A connects to object B with an arrow, and so does object B to object C, then there must be another arrow (their composition) which connects object A to object C.

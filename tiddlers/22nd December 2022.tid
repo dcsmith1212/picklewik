@@ -1,0 +1,11 @@
+created: 20221223011027042
+creator: derek
+modified: 20221223011255923
+modifier: derek
+tags: Journal
+title: 22nd December 2022
+type: text/vnd.tiddlywiki
+
+Today I pretty much finished all the [[XTopic]] changes. At least the functional ones. I have a feeling I've opened the can of worms for reorganizing it, but at least all class method definitions have been moved to .cc files and things are much more organized, and I got rid of most of the stuff that seemed to be unnecessary.
+
+I also got [[Haskell School of Music]] yesterday, and have been digging into that. I'm super excited to keep reading it and to learn [[Euterpea]] more, and [[Haskell]] in general. It is a fun language to use. I feel like I'm starting to come to grips with a lot of the functional ideas that I initially struggled with when learning [[Common Lisp]] back in the day, and I can't wait to get back to learning Lisp as a more experienced functional programmer... I will finally be able to focus on macros and what set Lisp apart from other languages.

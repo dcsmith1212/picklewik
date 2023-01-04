@@ -1,0 +1,11 @@
+created: 20221222003751733
+creator: derek
+modified: 20221222003949002
+modifier: derek
+tags: Journal
+title: 21st December 2022
+type: text/vnd.tiddlywiki
+
+Today I started refactoring the classes in xvector-fst.h. These are much more complicated and there are more of them and the hierarchy of classes built up is more complex. But I'm starting by scrapping the templating, which isn't taken advantage of here either, and then I'll move method definitions to a .cc file for better organization.
+
+I also discovered the book Category Theory for Programmers, which I ordered a copy of and have started reading the .pdf version of. It seems like a very interesting introduction to categories for structuring programs. Tonight Rose and I are going to get Escobar's and chill out.

@@ -1,0 +1,19 @@
+book author: Paul Hudak,Donya Quick
+book chapter: Ch. 13: L-Systems and Generative Grammars
+book title: The Haskell School of Music
+created: 20230103192125874
+creator: derek
+modified: 20230103193423008
+modifier: derek
+tags: [[Books I've Read]] Mathematics [[Computer Science]]
+title: Generative Grammar
+type: text/vnd.tiddlywiki
+
+A generative grammar describes a formal language for building sentences of symbols from other symbols according to a set of production rules. Formally they can be represented by a four-tuple $$(N,T,n,P)$$ where
+
+* $$N$$ is the set of non-terminal symbols
+* $$T$$ is the set of terminal symbols
+* $$n$$ is the initial symbol
+* $$P$$ is the set of production rules of the form $$X \rightarrow Y$$, where $X$ and $Y$ are sentences (sequences of symbols) over alphabet $$N \cup T$$, and $X$ must contain at least one non-terminal.
+
+With formal grammars we're getting into territory I'm familiar with from working at nVoq. Namely I think grammars of this type could be represented as FSTs or FSAs. I'd have to think more about how to map one system to the other, but the fact that generative grammars and [[L-systems|L-system]] are used for generative music composition makes me wonder if I might be able to apply my expertise with FSTs to the same end.

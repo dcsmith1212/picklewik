@@ -1,0 +1,11 @@
+created: 20221222003424057
+creator: derek
+modified: 20221222003741604
+modifier: derek
+tags: Journal
+title: 20th December 2022
+type: text/vnd.tiddlywiki
+
+Today I carried on with the [[XTopic]] refactor, eventually getting the classes in xcontainer-fst.h un-templated and cleaned up. I also moved the definitions of methods to a .cc file, which will hopefully help with compilation times and general organization.
+
+In the evening Rose and watched Survivorman and I continued learning Haskell, specifically about typeclasses and how to fit a user-defined type into existing ones like Show and Read. The function `readsPrec` defined to "plug in" a type to the Read typeclass, in particular, was illuminating both for showing the power and utility of typeclasses but also as an example of an elegant, state-less, pure piece of functional code.

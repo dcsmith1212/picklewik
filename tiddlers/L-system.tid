@@ -1,0 +1,12 @@
+book author: Paul Hudak,Donya Quick
+book chapter: Ch. 13: L-Systems and Generative Grammars
+book title: The Haskell School of Music
+created: 20230103191238245
+creator: derek
+modified: 20230103193340695
+modifier: derek
+tags: [[Books I've Read]] Mathematics [[Computer Science]]
+title: L-system
+type: text/vnd.tiddlywiki
+
+Lindenmayer systems are a type of [[generative grammar|Generative Grammar]]. These systems are parallel, meaning at each production step, all possible productions are applied. L-systems originated as a means of modeling the growth of plants and other biological systems, but they have found application in other domains as well.

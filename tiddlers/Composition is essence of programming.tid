@@ -1,0 +1,16 @@
+book author: Bartosz Milewski
+book chapter: Chapter 1
+book title: Category Theory for Programmers
+created: 20221222004110831
+creator: derek
+modified: 20221222004924066
+modifier: derek
+tags: [[Books I've Read]]
+title: Composition is essence of programming
+type: text/vnd.tiddlywiki
+
+One theme that has popped up again and again as I've started learning about [[Haskell]] and functional programming is the idea that composition is the key to managing complexity in scalable code. Haskell and other functional-first languages make it very easy to manipulate functions without knowing anything about their internal implementation. Only the type of the function is needed, and from it one can build more complex programs by composing these functions together. In functional languages where side effects are avoided, it becomes very easy to compose simple functions into a variety of different places in your code, and managing complexity is much easier because of it.
+
+Even in object-oriented code this idea can be quite powerful. In that domain, classes provide the interface which other pieces of code can use while hiding implementation details, and composition usually comes into play at the class level instead. Still, if simple, modular classes can be created, the idea of composition can be powerful in this paradigm as well.
+
+Categories and composition are inherently linked, it seems, and category theory is focused on the structures one can build from linking //interfaces// together, without worrying so much about implementation. Therefore it seems like studying categories can provide the programmer with insights into how to organize functions or classes in their code into larger, yet simpler and more manageable, structures.
