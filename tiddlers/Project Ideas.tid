@@ -1,10 +1,18 @@
 created: 20230105011431088
 creator: derek
-modified: 20230105011459667
+modified: 20230105011900293
 modifier: derek
 tags: 
 title: Project Ideas
 type: text/vnd.tiddlywiki
 
 * Read [[The Haskell School of Music]]
+** Generative ambient album with Haskell
 * Read [[Category Theory for Programmers]]
+* Instrumental guitar / bass album with old sessions
+* Resurrect [[Moreno]]
+** Mess with Last.fm API and add genre mapper via `tag.getSimilar`
+* Build looper with [[Axoloti]]
+** Learn covers and write ambient stuff with looper
+* Do one of the many cool Kadenze courses
+* Get guitar or bass lessons
