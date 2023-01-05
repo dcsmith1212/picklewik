@@ -2,10 +2,10 @@ created: 20230105195943778
 creator: derek
 draft.of: 4th January 2023
 draft.title: 4th January 2023
-modified: 20230105200047993
+modified: 20230105200149125
 modifier: derek
 tags: Journal
 title: Draft of '4th January 2023' by derek
 type: text/vnd.tiddlywiki
 
-Today I continued testing the XTopic changes. It looks like vocab accuracy did degrade slightly, and Alex found that commands reco less often too. So I'm trying to narrow in on which of the many commits may have caused the issue. I fi
+Today I continued testing the XTopic changes. It looks like vocab accuracy did degrade slightly, and Alex found that commands reco less often too. So I'm trying to narrow in on which of the many commits may have caused the issue. I finally finished Chapter 13 of [[HSoM|The Haskell School of Music]], at least to where I understand how the general non-deterministic grammar works, and how its associated generates fn
