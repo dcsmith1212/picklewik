@@ -2,7 +2,7 @@ created: 20230105011431088
 creator: derek
 draft.of: Project Ideas
 draft.title: Project Ideas
-modified: 20230105011559996
+modified: 20230105011701422
 modifier: derek
 tags: 
 title: Draft of 'Project Ideas' by derek
@@ -12,5 +12,6 @@ type: text/vnd.tiddlywiki
 * Read [[Category Theory for Programmers]]
 * Instrumental guitar / bass album
 * Generative ambient album
-* Resurrect Moreno
-* Build loop
+* Resurrect [[Moreno]]
+* Build looper with [[Axoloti]]
+
