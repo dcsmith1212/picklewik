@@ -2,16 +2,17 @@ created: 20230105011431088
 creator: derek
 draft.of: Project Ideas
 draft.title: Project Ideas
-modified: 20230105011701422
+modified: 20230105011802542
 modifier: derek
 tags: 
 title: Draft of 'Project Ideas' by derek
 type: text/vnd.tiddlywiki
 
 * Read [[The Haskell School of Music]]
+** Generative ambient album with Haskell
 * Read [[Category Theory for Programmers]]
-* Instrumental guitar / bass album
-* Generative ambient album
+* Instrumental guitar / bass album with old sessions
 * Resurrect [[Moreno]]
 * Build looper with [[Axoloti]]
-
+** Learn covers and write ambient stuff with looper
+* Mess with Last.fm API A
