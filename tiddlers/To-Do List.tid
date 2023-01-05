@@ -1,6 +1,6 @@
 created: 20221025212934359
 creator: derek
-modified: 20230103161545302
+modified: 20230105203447400
 modifier: derek
 tags: 
 title: To-Do List
@@ -22,6 +22,7 @@ Wiki maintenance:
 
 nVoq:
 
+* Add null checks / bubble filter pointer for decoder3.cc segfaults
 * Mid-Dictation Commands
 ** Replacing XTopic components on the fly
 ** Optional flag to "ignore" main topic
