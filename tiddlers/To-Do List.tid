@@ -1,6 +1,6 @@
 created: 20221025212934359
 creator: derek
-modified: 20230105203447400
+modified: 20230105210445752
 modifier: derek
 tags: 
 title: To-Do List
@@ -36,3 +36,6 @@ nVoq:
 * Make sure posScale is available in chef cookbook 18.0
 * Refactor normalization map parser
 * Change nv_reds and other cookbooks to send DEBUG logs to graylog
+* Planning items:
+** Item for changing SnS context on the fly
+** Item handling pure silence more better
