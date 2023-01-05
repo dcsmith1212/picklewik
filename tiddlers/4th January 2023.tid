@@ -1,0 +1,13 @@
+created: 20230105195943778
+creator: derek
+modified: 20230105200335093
+modifier: derek
+tags: Journal
+title: 4th January 2023
+type: text/vnd.tiddlywiki
+
+Today I continued testing the XTopic changes. It looks like vocab accuracy did degrade slightly, and Alex found that commands reco less often too. So I'm trying to narrow in on which of the many commits may have caused the issue.
+
+I finally finished Chapter 13 of [[HSoM|The Haskell School of Music]], at least to where I understand how the general non-deterministic grammar works, and how its associated generator functions for music. I also created a version of the string grammar from the deterministic section to make sure I understand things. I think I'll mess with this grammar framework a bit before moving on the Chapter 14.
+
+In the evening Rose and I started season 2 of Russian Doll. What a trippy show!
