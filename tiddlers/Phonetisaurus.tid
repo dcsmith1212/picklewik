@@ -1,6 +1,6 @@
 created: 20230106195754508
 creator: derek
-modified: 20230106201052133
+modified: 20230106201244290
 modifier: derek
 tags: nVoq
 title: Phonetisaurus
@@ -14,5 +14,6 @@ Once the source code is built, P-rex models can be trained with the following co
 
 Trained models can be evaluated with:
 
-
 <$codeblock code="""phonetisaurus-apply --model <MODEL_FST_FILE> --word_list <WORDS_FILE""" language="bash" />
+
+nVoq has forked the P-rex codebase and stores its copy [[here|https://svn/svn/SVP/trunk/external_lib/phonetisaurus/]. A [[sandbox|https://svn/svn/RandD/trunk/PhonetisaurusSandbox/]] exists in which the source code and its dependencies can be built, and models can be easily trained and evaluated.
