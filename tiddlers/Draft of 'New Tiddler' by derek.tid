@@ -2,10 +2,10 @@ created: 20230106195754508
 creator: derek
 draft.of: New Tiddler
 draft.title: Phonetisaurus
-modified: 20230106200534194
+modified: 20230106200639659
 modifier: derek
 tags: nVoq
 title: Draft of 'New Tiddler' by derek
 type: text/vnd.tiddlywiki
 
-[[Phonetisaurus|https://github.com/AdolfVonKleist/Phonetisaurus]] is a grapheme-to-phoneme engine for speech recognition. It is built on top of the OpenFST framework and uses expectation-maximization to
+[[Phonetisaurus|https://github.com/AdolfVonKleist/Phonetisaurus]] is a grapheme-to-phoneme engine for speech recognition built on top of the OpenFST framework. Phonetisaurus trains models by using expectation-maximization to find the most like way to map graphemes to phonemes provided a training dictionary. These alignments 
