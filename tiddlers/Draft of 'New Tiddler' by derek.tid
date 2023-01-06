@@ -3,7 +3,7 @@ creator: derek
 draft.of: New Tiddler
 draft.title: Pronouncing numbers with Phonetisaurus
 item number: D-13138
-modified: 20230106195301468
+modified: 20230106195335645
 modifier: derek
 tags: nVoq
 title: Draft of 'New Tiddler' by derek
@@ -13,4 +13,4 @@ When trained on the CMU dictionary as per the github README instructions, [[Phon
 
 Still issues: `port5 -> P AO R CH T IY F AY V`
 
-The fact that training on regular English words does quite well with `seq2_
+The fact that training on regular English words does quite well with `seq2_max` deafulted to 2 makes me think we have yet another reason to figure out how to train //separate// [[Phonetisaurus]] models for 
