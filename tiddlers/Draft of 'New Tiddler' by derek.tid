@@ -2,10 +2,10 @@ created: 20230106195754508
 creator: derek
 draft.of: New Tiddler
 draft.title: Phonetisaurus
-modified: 20230106200025834
+modified: 20230106200115721
 modifier: derek
 tags: nVoq
 title: Draft of 'New Tiddler' by derek
 type: text/vnd.tiddlywiki
 
-Phonetisaurus is a 
+[[Phonetisaurus|https://github.com/AdolfVonKleist/Phonetisaurus]] is a grapheme-to-phoneme engine for speech recognition. 
