@@ -2,10 +2,10 @@ created: 20230106194722302
 creator: derek
 draft.of: New Tiddler
 draft.title: Pronouncing numbers with Phonetisaurus
-modified: 20230106194955749
+modified: 20230106195054466
 modifier: derek
 tags: nVoq
 title: Draft of 'New Tiddler' by derek
 type: text/vnd.tiddlywiki
 
-When trained on the CMU dictionary as per the github README instructions, [[Phonetisaurus]] does not recognize numerals. To alleviate this issue, I tried adding single- and double-digit numbers to the training dictionary by programmatically generating their pronunciations. Initially this mostly failed, as the max number of phonemes allowed to map to a single g is 2 by default and numerals 
+When trained on the CMU dictionary as per the github README instructions, [[Phonetisaurus]] does not recognize numerals. To alleviate this issue, I tried adding single- and double-digit numbers to the training dictionary by programmatically generating their pronunciations. Initially this mostly failed, as the max number of phonemes allowed to map to a single grapheme is 2 by default and numerals generally have longer pronunciations than that (e.g. `7 -> S EH V AH N`). After fixing this
