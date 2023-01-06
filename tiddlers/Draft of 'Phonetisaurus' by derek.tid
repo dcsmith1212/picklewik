@@ -1,16 +1,17 @@
 created: 20230106195754508
 creator: derek
-draft.of: New Tiddler
+draft.of: Phonetisaurus
 draft.title: Phonetisaurus
-modified: 20230106200842089
+modified: 20230106200944580
 modifier: derek
 tags: nVoq
-title: Draft of 'New Tiddler' by derek
+title: Draft of 'Phonetisaurus' by derek
 type: text/vnd.tiddlywiki
 
 [[Phonetisaurus|https://github.com/AdolfVonKleist/Phonetisaurus]] is a grapheme-to-phoneme engine for speech recognition built on top of the OpenFST framework. Phonetisaurus trains models by using expectation-maximization to find the most like way to map graphemes to phonemes provided a training dictionary. These alignments are then formed into a "corpus" whose co-occurrences are statistically modeled in an ARPA, which is then converted into a grammar FST. In fact, the process is quite similar to the way in which we train statistical language models on English language corpora, save for the EM phase.
 
-P-rex models can be trained with the following command:
+Once the source code is built, P-rex models can be trained with the following command:
 
+<$codeblock code="""phonetisaurus-train --lexicon <training-dict> --seq2_del""" language="bash" />
 
-<$codeblock code="""""" language="Bash" />
+Trained models c
