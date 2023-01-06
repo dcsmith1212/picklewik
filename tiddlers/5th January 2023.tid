@@ -1,0 +1,9 @@
+created: 20230106202853538
+creator: derek
+modified: 20230106204242174
+modifier: derek
+tags: Journal
+title: 5th January 2023
+type: text/vnd.tiddlywiki
+
+Today I figured out what the issue with the XTopic changes was. Just a stupid little bug down in the unscoring code. I also got Categories for Programmers which is a freaking beautiful book that I'm super excited to read, but I think I will finish [[HSoM|The Haskell School of Music]] first so I can focus on one thing at a time. Speaking of which, I read through the chapter on random distributions with Haskell which was neat. I'd like to mess around with [[L-systems|L-system]] and random music generation for a bit before moving on.
