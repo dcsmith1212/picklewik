@@ -2,10 +2,10 @@ created: 20230106194722302
 creator: derek
 draft.of: New Tiddler
 draft.title: Pronouncing numbers with Phonetisaurus
-modified: 20230106194752000
+modified: 20230106194852862
 modifier: derek
 tags: nVoq
 title: Draft of 'New Tiddler' by derek
 type: text/vnd.tiddlywiki
 
-When trained on the CMU dict
+When trained on the CMU dictionary as per the github README instructions, [[Phonetisaurus]] does not recognize numerals. To alleviate this issue, I tried adding single- and double-digit numbers to the 
