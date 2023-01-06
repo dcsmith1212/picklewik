@@ -1,16 +1,14 @@
 created: 20230106194722302
 creator: derek
-draft.of: New Tiddler
-draft.title: Pronouncing numbers with Phonetisaurus
 item number: D-13138
-modified: 20230106195335645
+modified: 20230106195506611
 modifier: derek
 tags: nVoq
-title: Draft of 'New Tiddler' by derek
+title: Pronouncing numbers with Phonetisaurus
 type: text/vnd.tiddlywiki
 
 When trained on the CMU dictionary as per the github README instructions, [[Phonetisaurus]] does not recognize numerals. To alleviate this issue, I tried adding single- and double-digit numbers to the training dictionary by programmatically generating their pronunciations. Initially this mostly failed, as the max number of phonemes allowed to map to a single grapheme is 2 by default and numerals generally have longer pronunciations than that (e.g. `7 -> S EH V AH N`). After setting this max up to 5, training works much better.
 
 Still issues: `port5 -> P AO R CH T IY F AY V`
 
-The fact that training on regular English words does quite well with `seq2_max` deafulted to 2 makes me think we have yet another reason to figure out how to train //separate// [[Phonetisaurus]] models for 
+The fact that training on regular English words does quite well with `seq2_max` deafulted to 2 makes me think we have yet another reason to figure out how to train //separate// [[Phonetisaurus]] models for different types of word (e.g. regular vs. acronyms vs. initialisms vs. numbers vs. drug names). In this case, we could train the numbers model separate and with `seq2_max` set to 5, leaving the regular words model as-is.
