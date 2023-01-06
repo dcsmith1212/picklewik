@@ -1,6 +1,6 @@
 created: 20230106195754508
 creator: derek
-modified: 20230106200936169
+modified: 20230106201052133
 modifier: derek
 tags: nVoq
 title: Phonetisaurus
@@ -10,4 +10,9 @@ type: text/vnd.tiddlywiki
 
 Once the source code is built, P-rex models can be trained with the following command:
 
-<$codeblock code="""phonetisaurus-train --lexicon <training-dict> --seq2_del""" language="bash" />
+<$codeblock code="""phonetisaurus-train --lexicon <TRAINING_DICT> --seq2_del""" language="bash" />
+
+Trained models can be evaluated with:
+
+
+<$codeblock code="""phonetisaurus-apply --model <MODEL_FST_FILE> --word_list <WORDS_FILE""" language="bash" />
