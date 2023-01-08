@@ -1,10 +1,18 @@
 created: 20221105035951804
 creator: derek
-modified: 20221208060402204
+modified: 20230108061619139
 modifier: derek
 tags: [[Music Technology]]
 title: Music Technology Resources
 type: text/vnd.tiddlywiki
+
+!! Languages
+
+* https://supercollider.github.io/
+* https://cycling74.com/products/max
+* https://chuck.stanford.edu/
+
+!! Random websites
 
 * manyarrowsmusic.com
 * kenparkerarchtops.com
