@@ -1,6 +1,6 @@
 created: 20230105011431088
 creator: derek
-modified: 20230105012022857
+modified: 20230108195056762
 modifier: derek
 tags: 
 title: Project Ideas
@@ -15,4 +15,5 @@ type: text/vnd.tiddlywiki
 * Build looper with [[Axoloti]]
 ** Learn covers and write ambient stuff with looper
 * Do one of the many cool Kadenze courses
+* Turn Mac into [[LFS|https://www.linuxfromscratch.org/lfs/view/stable/]] system
 * Get guitar or bass lessons
