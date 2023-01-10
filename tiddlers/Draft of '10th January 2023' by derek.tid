@@ -2,7 +2,7 @@ created: 20230110223614503
 creator: derek
 draft.of: 10th January 2023
 draft.title: 10th January 2023
-modified: 20230110223843238
+modified: 20230110223943730
 modifier: derek
 tags: Journal
 title: Draft of '10th January 2023' by derek
@@ -10,4 +10,4 @@ type: text/vnd.tiddlywiki
 
 Today and yesterday I've been getting slammed with question from other people, but the P-rex stuff is shaping up nicely. I'm meeting with Jean in the morning to talk about her usage of the engine now that I integrated the normalizer, and the Reco Team seems to agree that the profile server side of things is OK for now.
 
-This evening I'm hoping to practice some of the tunes for the [[jam class|Jam Class with Russell]], and maybe continue reading about Haskell and generative music. I was hoping to mess with the grammars and Marko
+This evening I'm hoping to practice some of the tunes for the [[jam class|Jam Class with Russell]], and maybe continue reading about Haskell and generative music. I was hoping to mess with the grammars and Markov models more before continuing with the book, but we'll see. I rediscovered [[Teropa's website|https://teropa.info/]] which has tons of info about generative music and I might just want to keep going with the book so I can build my Haskell chops before starting to implement more comp
