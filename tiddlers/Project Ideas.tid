@@ -1,6 +1,6 @@
 created: 20230105011431088
 creator: derek
-modified: 20230108195056762
+modified: 20230110222421259
 modifier: derek
 tags: 
 title: Project Ideas
@@ -9,6 +9,8 @@ type: text/vnd.tiddlywiki
 * Read [[The Haskell School of Music]]
 ** Generative ambient album with Haskell
 * Read [[Category Theory for Programmers]]
+* Learn [[100 Great American Songs]]
+* Do jam class with Russell W.
 * Instrumental guitar / bass album with old sessions
 * Resurrect [[Moreno]]
 ** Mess with [[Last.fm API|https://www.last.fm/api]] and add genre mapper via `tag.getSimilar`
