@@ -1,0 +1,43 @@
+created: 20221025212934359
+creator: derek
+draft.of: To-Do List
+draft.title: To-Do List
+modified: 20230110225952552
+modifier: derek
+tags: 
+title: Draft of 'To-Do List' by derek
+type: text/vnd.tiddlywiki
+
+Adulting:
+
+* Get Utah license (make appointment!)
+* Voter registration
+* United change codes: LDXNY2, GP187L
+
+Projects:
+
+* [[Jam Class with Russell]]
+* [[Loud and Clear|https://loudandclear.byspotify.com/]]
+* [[Rolling Stone 500 Greatest Albums|https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/the-beatles-abbey-road-2-1063228/]]
+* [[Where to start with hip-hop|https://www.reddit.com/r/Music/comments/763vf5/looking_to_get_into_hiphop_where_to_start/]]
+
+Wiki maintenance:
+
+* https://groktiddlywiki.com/read/
+* Move calender to the wiki
+* [[Tiddlers to Write]]
+
+nVoq:
+
+* Add null checks / bubble filter pointer for decoder3.cc segfaults
+* Mid-Dictation Commands
+** Replacing XTopic components on the fly
+** Optional flag to "ignore" main topic
+** Write item for these two things
+* Item for getting debug artifacts and debug logging uploaded to S3
+* Integrating Phonetisaurus
+** Remove all the g2p-seq2seq crap from LM
+** How to write unit tests that use JNI?
+* Make sure posScale is available in chef cookbook 18.0
+* Refactor normalization map parser
+* Change nv_reds and other cookbooks to send DEBUG logs to graylog
