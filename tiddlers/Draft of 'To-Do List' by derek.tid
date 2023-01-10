@@ -1,9 +1,11 @@
 created: 20221025212934359
 creator: derek
-modified: 20230110224811418
+draft.of: To-Do List
+draft.title: To-Do List
+modified: 20230110224842032
 modifier: derek
 tags: 
-title: To-Do List
+title: Draft of 'To-Do List' by derek
 type: text/vnd.tiddlywiki
 
 Adulting:
@@ -34,7 +36,6 @@ nVoq:
 ** Replacing XTopic components on the fly
 ** Optional flag to "ignore" main topic
 ** Write item for these two things
-** Write item for named components in XTopic
 * Item for getting debug artifacts and debug logging uploaded to S3
 * Integrating Phonetisaurus
 ** Remove all the g2p-seq2seq crap from LM
@@ -43,6 +44,3 @@ nVoq:
 * Make sure posScale is available in chef cookbook 18.0
 * Refactor normalization map parser
 * Change nv_reds and other cookbooks to send DEBUG logs to graylog
-* Planning items:
-** Item for changing SnS context on the fly
-** Item handling pure silence more better
